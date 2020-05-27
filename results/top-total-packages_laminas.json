@@ -1,0 +1,1000 @@
+{
+	"package" : "ocramius/proxy-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39153798
+			}
+		}
+	}
+}
+{
+	"package" : "league/oauth2-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15927046
+			}
+		}
+	}
+}
+{
+	"package" : "slim/slim",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11764538
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/passport",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10099903
+			}
+		}
+	}
+}
+{
+	"package" : "drupal/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9446645
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/curl-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8365816
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5398004
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3327998
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-orm-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3065777
+			}
+		}
+	}
+}
+{
+	"package" : "liip/monitor-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2609386
+			}
+		}
+	}
+}
+{
+	"package" : "league/uri-components",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2488334
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-zendframework-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1849562
+			}
+		}
+	}
+}
+{
+	"package" : "goaop/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1640149
+			}
+		}
+	}
+}
+{
+	"package" : "rwoverdijk/assetmanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1262116
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-eventmanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 954715
+			}
+		}
+	}
+}
+{
+	"package" : "riverline/multipart-parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 895488
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-code",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 860776
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/cms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 725860
+			}
+		}
+	}
+}
+{
+	"package" : "bensampo/laravel-enum",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 676267
+			}
+		}
+	}
+}
+{
+	"package" : "webflo/drupal-core-strict",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 626876
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-diactoros",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 610074
+			}
+		}
+	}
+}
+{
+	"package" : "ob/highcharts-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 568033
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-stdlib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 400815
+			}
+		}
+	}
+}
+{
+	"package" : "relay/relay",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 383262
+			}
+		}
+	}
+}
+{
+	"package" : "goetas-webservices/xsd2php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 377319
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/utils",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 361181
+			}
+		}
+	}
+}
+{
+	"package" : "eko/feedbundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 343730
+			}
+		}
+	}
+}
+{
+	"package" : "slm/mail",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 308562
+			}
+		}
+	}
+}
+{
+	"package" : "slm/queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 285702
+			}
+		}
+	}
+}
+{
+	"package" : "drupal/core-recommended",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 277641
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-mongo-odm-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 277360
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-escaper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 274209
+			}
+		}
+	}
+}
+{
+	"package" : "fr3d/swagger-assertions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 272051
+			}
+		}
+	}
+}
+{
+	"package" : "siriusphp/upload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 246169
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-validator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 245821
+			}
+		}
+	}
+}
+{
+	"package" : "joomla/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 236645
+			}
+		}
+	}
+}
+{
+	"package" : "chartmogul/chartmogul-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 235993
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-servicemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 222356
+			}
+		}
+	}
+}
+{
+	"package" : "jenssegers/proxy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 191983
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-filter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 183738
+			}
+		}
+	}
+}
+{
+	"package" : "bushbaby/flysystem",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 171222
+			}
+		}
+	}
+}
+{
+	"package" : "shopware/shopware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 159494
+			}
+		}
+	}
+}
+{
+	"package" : "mmucklo/email-parse",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 155809
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-inputfilter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 145643
+			}
+		}
+	}
+}
+{
+	"package" : "san/san-session-toolbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 143929
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-httphandlerrunner",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 139307
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-loader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 137466
+			}
+		}
+	}
+}
+{
+	"package" : "acelaya/zf2-acmailer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 127314
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-feed",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 123749
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-uri",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 119624
+			}
+		}
+	}
+}
+{
+	"package" : "flarum/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 116782
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-json",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 110603
+			}
+		}
+	}
+}
+{
+	"package" : "joomla/application",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 110192
+			}
+		}
+	}
+}
+{
+	"package" : "bukashk0zzz/filter-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 108033
+			}
+		}
+	}
+}
+{
+	"package" : "laravel-zero/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 105793
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/vapor-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 103976
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 103902
+			}
+		}
+	}
+}
+{
+	"package" : "slm/queue-doctrine",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 102890
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mime",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 99758
+			}
+		}
+	}
+}
+{
+	"package" : "slim/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 96460
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 95560
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 91112
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-hydrator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 88566
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 85372
+			}
+		}
+	}
+}
+{
+	"package" : "heise/shariff",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 81215
+			}
+		}
+	}
+}
+{
+	"package" : "prolic/humus-amqp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 78608
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 78006
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 77908
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mvc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 76713
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-diagnostics",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 75483
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-modulemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 68215
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-math",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 68134
+			}
+		}
+	}
+}
+{
+	"package" : "ecodev/graphql-upload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66854
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mail",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66370
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 65453
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 64248
+			}
+		}
+	}
+}
+{
+	"package" : "kokspflanze/zfc-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 62925
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-form",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 61707
+			}
+		}
+	}
+}
+{
+	"package" : "trikoder/oauth2-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 59967
+			}
+		}
+	}
+}
+{
+	"package" : "vufind-org/vufindhttp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 59659
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-stratigility",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 59086
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 58193
+			}
+		}
+	}
+}
+{
+	"package" : "aimeos/aimeos-laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 57201
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-dependency-plugin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 56990
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-serializer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 56745
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 56678
+			}
+		}
+	}
+}
+{
+	"package" : "vufind-org/vufindharvest",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 56562
+			}
+		}
+	}
+}
+{
+	"package" : "markup/barcode-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 54215
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-component-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53893
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53218
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-log",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49804
+			}
+		}
+	}
+}
+{
+	"package" : "slm/locale",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49480
+			}
+		}
+	}
+}
+{
+	"package" : "ivan-novakov/php-openid-connect-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 47105
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46475
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46048
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-crypt",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 45822
+			}
+		}
+	}
+}
+{
+	"package" : "mimmi20/ua-generic-request",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 45547
+			}
+		}
+	}
+}
+{
+	"package" : "oxcom/zend-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 44811
+			}
+		}
+	}
+}
+{
+	"package" : "hyperf/http-message",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 44371
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/negotiation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 43410
+			}
+		}
+	}
+}

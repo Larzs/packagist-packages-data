@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 803222
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 24101
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6340
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6191
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5776
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3929
+			}
+		}
+	}
+}
+{
+	"package" : "yurkinx/yii2-image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3756
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3692
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam-taxonomy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3644
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/services-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3635
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam-closuretable",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3546
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/promotions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3536
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/shipping",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3494
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3487
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam-monetary",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3480
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam-locations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3333
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3296
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/jam-tart",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2911
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/spiderling",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2727
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/phpunit-spiderling",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2554
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/functest",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2382
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2121
+			}
+		}
+	}
+}
+{
+	"package" : "bkhrupa/kohana-rediscache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1849
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/purchases",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1660
+			}
+		}
+	}
+}
+{
+	"package" : "webvimark/image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1539
+			}
+		}
+	}
+}
+{
+	"package" : "koseven/koseven",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1149
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/minion",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 515
+			}
+		}
+	}
+}
+{
+	"package" : "hotrush/kohana3-codeception",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 507
+			}
+		}
+	}
+}
+{
+	"package" : "ingenerator/kohana-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 421
+			}
+		}
+	}
+}
+{
+	"package" : "ingenerator/kohana-doctrine2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 413
+			}
+		}
+	}
+}
+{
+	"package" : "ingenerator/pigeonhole",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 406
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 376
+			}
+		}
+	}
+}
+{
+	"package" : "macellan/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 322
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/coding-standards",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 220
+			}
+		}
+	}
+}
+{
+	"package" : "ingenerator/config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 145
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/userguide",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 131
+			}
+		}
+	}
+}
+{
+	"package" : "travis/composer-installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 129
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/codebench",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 115
+			}
+		}
+	}
+}
+{
+	"package" : "rjd22/kohana-pimple",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 114
+			}
+		}
+	}
+}
+{
+	"package" : "colinmollenhour/mongodb-php-odm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 114
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/unittest",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 106
+			}
+		}
+	}
+}
+{
+	"package" : "battousai/kohana-multilanguage",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 98
+			}
+		}
+	}
+}
+{
+	"package" : "dexamped/kohana-resque",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 92
+			}
+		}
+	}
+}
+{
+	"package" : "dexamped/kohana-aws",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 64
+			}
+		}
+	}
+}
+{
+	"package" : "dexamped/kohana-wkhtml2pdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 64
+			}
+		}
+	}
+}
+{
+	"package" : "dexamped/kohana-resque-scheduler",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 57
+			}
+		}
+	}
+}
+{
+	"package" : "bmidget/kohana-formo",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 53
+			}
+		}
+	}
+}
+{
+	"package" : "bmidget/kohana-assets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 40
+			}
+		}
+	}
+}
+{
+	"package" : "happydemon/txt",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 35
+			}
+		}
+	}
+}
+{
+	"package" : "ingenerator/warden",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 29
+			}
+		}
+	}
+}
+{
+	"package" : "alle/ohanzee-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 27
+			}
+		}
+	}
+}
+{
+	"package" : "boomcms/boom-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 26
+			}
+		}
+	}
+}
+{
+	"package" : "jacopo/authentication-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 20
+			}
+		}
+	}
+}
+{
+	"package" : "illusorium/kohana-email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14
+			}
+		}
+	}
+}
+{
+	"package" : "czukowski/i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/timestamped-migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10
+			}
+		}
+	}
+}
+{
+	"package" : "kohana/koharness",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9
+			}
+		}
+	}
+}
+{
+	"package" : "alle/kohana-jsend",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7
+			}
+		}
+	}
+}
+{
+	"package" : "openbuildings/kohana-test-bootstrap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7
+			}
+		}
+	}
+}
+{
+	"package" : "mxrck/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6
+			}
+		}
+	}
+}
+{
+	"package" : "pridemon/kohana-blade",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5
+			}
+		}
+	}
+}
+{
+	"package" : "hello-hungry/jam-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5
+			}
+		}
+	}
+}
+{
+	"package" : "ushahidi/shadowhand-email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4
+			}
+		}
+	}
+}
+{
+	"package" : "tomlankhorst/kohana-3.3-mysqli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4
+			}
+		}
+	}
+}
+{
+	"package" : "illusorium/koseven-cache-redis",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4
+			}
+		}
+	}
+}
+{
+	"package" : "xshimmy/kohana-debug-toolbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3
+			}
+		}
+	}
+}
+{
+	"package" : "tommcdo/kohana-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3
+			}
+		}
+	}
+}
+{
+	"package" : "bodom78/kohana-imagefly",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3
+			}
+		}
+	}
+}
+{
+	"package" : "ohanzee/helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3
+			}
+		}
+	}
+}
+{
+	"package" : "z_bodya/yii-image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2
+			}
+		}
+	}
+}
+{
+	"package" : "zeelot/kohana-media",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2
+			}
+		}
+	}
+}
+{
+	"package" : "xj/yii2-kohanaimage",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2
+			}
+		}
+	}
+}
+{
+	"package" : "svenbw/kohana-email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2
+			}
+		}
+	}
+}
+{
+	"package" : "xshimmy/kohana-cron",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "ufo-engineering/ko-events",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "thesoftnet/authentication-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "samwilson/kohana_mailqueue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "phpspec/kohana-extension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fidyk/captcha",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "modulargaming/purifier",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "modseven/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "modseven/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "modseven/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "illusorium/kthrottler",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "app-skeleton/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "corneltek/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "andygoo/wxpay",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "app-skeleton/email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "despark/kohana",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "despark/jamd",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "app-skeleton/image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "dfox/kohana-gearman",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "alshabalin/kohana-advanced-assets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "anroots/commoneer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "app-skeleton/minion",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "app-skeleton/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "diara/audit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "anroots/db-acl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "app-skeleton/userguide",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "dmitrymomot/kohana-acl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}

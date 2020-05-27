@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26065561
+			}
+		}
+	}
+}
+{
+	"package" : "hwi/oauth-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6793630
+			}
+		}
+	}
+}
+{
+	"package" : "johnpbloch/wordpress",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3823459
+			}
+		}
+	}
+}
+{
+	"package" : "johnpbloch/wordpress-core-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3745807
+			}
+		}
+	}
+}
+{
+	"package" : "johnpbloch/wordpress-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3399704
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/php-cli-tools",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2718050
+			}
+		}
+	}
+}
+{
+	"package" : "roots/wp-password-bcrypt",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1853867
+			}
+		}
+	}
+}
+{
+	"package" : "wp-coding-standards/wpcs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1747816
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/wp-cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1610986
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/mustangostang-spyc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 921522
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/extension-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 835949
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/entity-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 833949
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/core-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 831658
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/cron-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 828433
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/db-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 819825
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/search-replace-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 815773
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/checksum-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 814936
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/language-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 814651
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/config-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 802512
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/package-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 800023
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/rewrite-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 799051
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/scaffold-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 796850
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/cache-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 796705
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/media-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 796407
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/eval-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 796356
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/export-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 791464
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/import-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 790716
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/role-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 788305
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/widget-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 787485
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/super-admin-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 782325
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/shell-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 781986
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/server-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 766150
+			}
+		}
+	}
+}
+{
+	"package" : "roots/soil",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 713713
+			}
+		}
+	}
+}
+{
+	"package" : "roots/wordpress",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 680266
+			}
+		}
+	}
+}
+{
+	"package" : "brain/hierarchy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 657123
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/wp-config-transformer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 649312
+			}
+		}
+	}
+}
+{
+	"package" : "soberwp/controller",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 634420
+			}
+		}
+	}
+}
+{
+	"package" : "roots/sage-lib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 630641
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/embed-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 609596
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/autoload-splitter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 592316
+			}
+		}
+	}
+}
+{
+	"package" : "10up/wp_mock",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 576839
+			}
+		}
+	}
+}
+{
+	"package" : "mikemclin/laravel-wp-password",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 536102
+			}
+		}
+	}
+}
+{
+	"package" : "upstatement/routes",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 526214
+			}
+		}
+	}
+}
+{
+	"package" : "roots/wp-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 477071
+			}
+		}
+	}
+}
+{
+	"package" : "timber/timber",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 468196
+			}
+		}
+	}
+}
+{
+	"package" : "phpcompatibility/phpcompatibility-wp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 461819
+			}
+		}
+	}
+}
+{
+	"package" : "roots/wordpress-core-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 454024
+			}
+		}
+	}
+}
+{
+	"package" : "philippbaschke/acf-pro-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 450761
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/i18n-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 430717
+			}
+		}
+	}
+}
+{
+	"package" : "lucatume/wp-browser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 419485
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/license-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 414178
+			}
+		}
+	}
+}
+{
+	"package" : "roots/sage-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 398272
+			}
+		}
+	}
+}
+{
+	"package" : "pantheon-systems/terminus",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 385764
+			}
+		}
+	}
+}
+{
+	"package" : "jgrossi/corcel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 353542
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/wordpress-seo",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 346668
+			}
+		}
+	}
+}
+{
+	"package" : "lucatume/wp-browser-commons",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 322512
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/api-libs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 312531
+			}
+		}
+	}
+}
+{
+	"package" : "humanmade/s3-uploads",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 265260
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/i18n-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 246509
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/wp-cli-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 230166
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/whip",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 208896
+			}
+		}
+	}
+}
+{
+	"package" : "brain/monkey",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 205836
+			}
+		}
+	}
+}
+{
+	"package" : "automattic/vipwpcs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 192748
+			}
+		}
+	}
+}
+{
+	"package" : "wp-cli/maintenance-mode-command",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 188781
+			}
+		}
+	}
+}
+{
+	"package" : "themosis/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 179082
+			}
+		}
+	}
+}
+{
+	"package" : "otgs/installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 161863
+			}
+		}
+	}
+}
+{
+	"package" : "johnbillion/extended-cpts",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 154790
+			}
+		}
+	}
+}
+{
+	"package" : "backpack/pagemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 152145
+			}
+		}
+	}
+}
+{
+	"package" : "roots/sage",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 146375
+			}
+		}
+	}
+}
+{
+	"package" : "roots/bedrock",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 145818
+			}
+		}
+	}
+}
+{
+	"package" : "wp-sync-db/wp-sync-db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 140480
+			}
+		}
+	}
+}
+{
+	"package" : "roots/wp-stage-switcher",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 136900
+			}
+		}
+	}
+}
+{
+	"package" : "deliciousbrains/wp-amazon-s3-and-cloudfront",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 134621
+			}
+		}
+	}
+}
+{
+	"package" : "a5hleyrich/wp-background-processing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 129108
+			}
+		}
+	}
+}
+{
+	"package" : "wp-api/wp-api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 122873
+			}
+		}
+	}
+}
+{
+	"package" : "inpsyde/wonolog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 120964
+			}
+		}
+	}
+}
+{
+	"package" : "deliciousbrains/wp-amazon-web-services",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 118015
+			}
+		}
+	}
+}
+{
+	"package" : "wp-sync-db/wp-sync-db-media-files",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 111744
+			}
+		}
+	}
+}
+{
+	"package" : "roots/multisite-url-fixer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 109407
+			}
+		}
+	}
+}
+{
+	"package" : "cmb2/cmb2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 103075
+			}
+		}
+	}
+}
+{
+	"package" : "yahnis-elsts/plugin-update-checker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 102946
+			}
+		}
+	}
+}
+{
+	"package" : "htmlburger/carbon-fields",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 96985
+			}
+		}
+	}
+}
+{
+	"package" : "webdevstudios/cmb2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 96346
+			}
+		}
+	}
+}
+{
+	"package" : "level-level/ll-plugin-autoloader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 89470
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/yoastcs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 84684
+			}
+		}
+	}
+}
+{
+	"package" : "ffraenz/private-composer-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 83422
+			}
+		}
+	}
+}
+{
+	"package" : "xwp/wp-dev-lib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 77887
+			}
+		}
+	}
+}
+{
+	"package" : "level-level/clarkson-hooks",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 72010
+			}
+		}
+	}
+}
+{
+	"package" : "typisttech/travis-nginx-wordpress",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 69623
+			}
+		}
+	}
+}
+{
+	"package" : "paulgibbs/behat-wordpress-extension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 68552
+			}
+		}
+	}
+}
+{
+	"package" : "typisttech/imposter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 68146
+			}
+		}
+	}
+}
+{
+	"package" : "10up/elasticpress",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 67988
+			}
+		}
+	}
+}
+{
+	"package" : "yoast/php-development-environment",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66601
+			}
+		}
+	}
+}
+{
+	"package" : "jjgrainger/posttypes",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66548
+			}
+		}
+	}
+}
+{
+	"package" : "lucatume/wp-snaphot-assertions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 64183
+			}
+		}
+	}
+}
+{
+	"package" : "woocommerce/woocommerce",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 63715
+			}
+		}
+	}
+}
+{
+	"package" : "wp-media/wp-rocket",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 62395
+			}
+		}
+	}
+}
+{
+	"package" : "hieu-le/wordpress-xmlrpc-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 62153
+			}
+		}
+	}
+}
+{
+	"package" : "woocommerce/woocommerce-blocks",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 61939
+			}
+		}
+	}
+}
+{
+	"package" : "jarednova/timber",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 61444
+			}
+		}
+	}
+}

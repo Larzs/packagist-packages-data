@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 803222
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/chronos",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 484618
+			}
+		}
+	}
+}
+{
+	"package" : "robmorgan/phinx",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 317545
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/utility",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 179659
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 178492
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 156448
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 152625
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/collection",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 151567
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/log",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 148340
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/datasource",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 145502
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 137212
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/debug_kit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 103173
+			}
+		}
+	}
+}
+{
+	"package" : "egeloen/http-adapter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 100918
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/plugin-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 89144
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 84185
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/bake",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 78624
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/cakephp-codesniffer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 78320
+			}
+		}
+	}
+}
+{
+	"package" : "wyrihaximus/twig-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 65687
+			}
+		}
+	}
+}
+{
+	"package" : "codeitnowin/barcode",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30394
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/cakepdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 23520
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/app",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 19643
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/bootstrap-ui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17377
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/cakephp-csvview",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17237
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/search",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15807
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/crud",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12410
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-ide-helper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10917
+			}
+		}
+	}
+}
+{
+	"package" : "josegonzalez/cakephp-csvview",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10335
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-shim",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8528
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-tools",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8519
+			}
+		}
+	}
+}
+{
+	"package" : "markstory/asset_compress",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8498
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8375
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/feed-me",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8256
+			}
+		}
+	}
+}
+{
+	"package" : "muffin/trash",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7953
+			}
+		}
+	}
+}
+{
+	"package" : "josegonzalez/cakephp-upload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7935
+			}
+		}
+	}
+}
+{
+	"package" : "lorenzo/cakephp-sqs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7168
+			}
+		}
+	}
+}
+{
+	"package" : "markstory/mini-asset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7086
+			}
+		}
+	}
+}
+{
+	"package" : "admad/cakephp-jwt-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7065
+			}
+		}
+	}
+}
+{
+	"package" : "lorenzo/audit-stash",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7036
+			}
+		}
+	}
+}
+{
+	"package" : "cakedc/migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6266
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/authorization",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6015
+			}
+		}
+	}
+}
+{
+	"package" : "muffin/footprint",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5975
+			}
+		}
+	}
+}
+{
+	"package" : "wyrihaximus/react-child-process-messenger",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5736
+			}
+		}
+	}
+}
+{
+	"package" : "cakedc/users",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5504
+			}
+		}
+	}
+}
+{
+	"package" : "jeremyharris/cakephp-lazyload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5215
+			}
+		}
+	}
+}
+{
+	"package" : "cakedc/search",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5197
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/elastic-search",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5059
+			}
+		}
+	}
+}
+{
+	"package" : "cakedc/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5052
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/crud-json-api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4934
+			}
+		}
+	}
+}
+{
+	"package" : "sizuhiko/fabricate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4724
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/crud-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4513
+			}
+		}
+	}
+}
+{
+	"package" : "burzum/cakephp-imagine-plugin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4405
+			}
+		}
+	}
+}
+{
+	"package" : "admad/cakephp-sequence",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4320
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4049
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/localized",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3897
+			}
+		}
+	}
+}
+{
+	"package" : "nazonohito51/cakephp2-ide-helper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3878
+			}
+		}
+	}
+}
+{
+	"package" : "kamisama/cake-resque",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3869
+			}
+		}
+	}
+}
+{
+	"package" : "ozee31/cakephp-cors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3835
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofcake/fixturize",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3494
+			}
+		}
+	}
+}
+{
+	"package" : "slywalker/boost_cake",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3431
+			}
+		}
+	}
+}
+{
+	"package" : "riesenia/cakephp-duplicatable",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3324
+			}
+		}
+	}
+}
+{
+	"package" : "narendravaghela/cakephp-mailgun",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3231
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/acl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3191
+			}
+		}
+	}
+}
+{
+	"package" : "drmonkeyninja/cakephp-inline-css",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3000
+			}
+		}
+	}
+}
+{
+	"package" : "cakedc/utils",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2978
+			}
+		}
+	}
+}
+{
+	"package" : "burzum/cakephp-file-storage",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2910
+			}
+		}
+	}
+}
+{
+	"package" : "chronon/mobile_detect",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2776
+			}
+		}
+	}
+}
+{
+	"package" : "lorenzo/piping-bag",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2774
+			}
+		}
+	}
+}
+{
+	"package" : "skie/cakephp-search",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2766
+			}
+		}
+	}
+}
+{
+	"package" : "josegonzalez/cakephp-queuesadilla",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2749
+			}
+		}
+	}
+}
+{
+	"package" : "pgbi/cakephp3-soft-delete",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2597
+			}
+		}
+	}
+}
+{
+	"package" : "gourmet/common-mark",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2488
+			}
+		}
+	}
+}
+{
+	"package" : "burzum/file-storage",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2478
+			}
+		}
+	}
+}
+{
+	"package" : "robotusers/cakephp-table-inheritance",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2472
+			}
+		}
+	}
+}
+{
+	"package" : "muffin/slug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2349
+			}
+		}
+	}
+}
+{
+	"package" : "viraj/cakephp-testdummy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2321
+			}
+		}
+	}
+}
+{
+	"package" : "holt59/cakephp3-bootstrap-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2307
+			}
+		}
+	}
+}
+{
+	"package" : "viraj/cakephp-integrated",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2237
+			}
+		}
+	}
+}
+{
+	"package" : "andrej-griniuk/cakephp-fractal-transformer-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2202
+			}
+		}
+	}
+}
+{
+	"package" : "jippi/cakephp-newrelic",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2169
+			}
+		}
+	}
+}
+{
+	"package" : "cakedc/tiny-mce",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2165
+			}
+		}
+	}
+}
+{
+	"package" : "loginradius/php-sdk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2106
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-tinyauth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1968
+			}
+		}
+	}
+}
+{
+	"package" : "muffin/webservice",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1929
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-geo",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1911
+			}
+		}
+	}
+}
+{
+	"package" : "lorenzo/cakephp-email-queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1885
+			}
+		}
+	}
+}
+{
+	"package" : "cart2quote/module-quotation-encoded",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1885
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1883
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/event",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1856
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-databaselog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1812
+			}
+		}
+	}
+}
+{
+	"package" : "wyrihaximus/fly-pie",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1792
+			}
+		}
+	}
+}
+{
+	"package" : "admad/cakephp-social-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1788
+			}
+		}
+	}
+}
+{
+	"package" : "rochamarcelo/cake-pimple-di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1744
+			}
+		}
+	}
+}
+{
+	"package" : "alt3/cakephp-swagger",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1740
+			}
+		}
+	}
+}
+{
+	"package" : "maiconpinto/cakephp-adminlte-theme",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1739
+			}
+		}
+	}
+}
+{
+	"package" : "sizuhiko/cake_fabricate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1671
+			}
+		}
+	}
+}
+{
+	"package" : "dereuromark/cakephp-whoops",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1650
+			}
+		}
+	}
+}
+{
+	"package" : "connehito/cake-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1547
+			}
+		}
+	}
+}
+{
+	"package" : "netcommons/user-attributes",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1521
+			}
+		}
+	}
+}
+{
+	"package" : "netcommons/plugin-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1520
+			}
+		}
+	}
+}
+{
+	"package" : "wyrihaximus/minify-html",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1518
+			}
+		}
+	}
+}

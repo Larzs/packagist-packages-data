@@ -1,0 +1,1000 @@
+{
+	"package" : "cakephp/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 137212
+			}
+		}
+	}
+}
+{
+	"package" : "aura/intl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 99956
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-expressive",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 29996
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sqlquery",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 21646
+			}
+		}
+	}
+}
+{
+	"package" : "aura/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18055
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sql",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15713
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15414
+			}
+		}
+	}
+}
+{
+	"package" : "aura/cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13575
+			}
+		}
+	}
+}
+{
+	"package" : "oscarotero/psr7-middlewares",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11711
+			}
+		}
+	}
+}
+{
+	"package" : "aura/router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9412
+			}
+		}
+	}
+}
+{
+	"package" : "aura/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9371
+			}
+		}
+	}
+}
+{
+	"package" : "aura/installer-default",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6873
+			}
+		}
+	}
+}
+{
+	"package" : "aura/session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6660
+			}
+		}
+	}
+}
+{
+	"package" : "aura/filter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5875
+			}
+		}
+	}
+}
+{
+	"package" : "aura/payload-interface",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4835
+			}
+		}
+	}
+}
+{
+	"package" : "acclimate/container",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4829
+			}
+		}
+	}
+}
+{
+	"package" : "aura/payload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4564
+			}
+		}
+	}
+}
+{
+	"package" : "ray/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4277
+			}
+		}
+	}
+}
+{
+	"package" : "atlas/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3843
+			}
+		}
+	}
+}
+{
+	"package" : "atlas/cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3830
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sqlschema",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3742
+			}
+		}
+	}
+}
+{
+	"package" : "aura/accept",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3328
+			}
+		}
+	}
+}
+{
+	"package" : "dbdiff/dbdiff",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2928
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-auradi-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2801
+			}
+		}
+	}
+}
+{
+	"package" : "aura/marshal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1982
+			}
+		}
+	}
+}
+{
+	"package" : "aura/autoload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1939
+			}
+		}
+	}
+}
+{
+	"package" : "aura/web",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1550
+			}
+		}
+	}
+}
+{
+	"package" : "jzonta/faker-restaurant",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1466
+			}
+		}
+	}
+}
+{
+	"package" : "aura/html",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1268
+			}
+		}
+	}
+}
+{
+	"package" : "bear/resource",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1022
+			}
+		}
+	}
+}
+{
+	"package" : "bear/sunday",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 914
+			}
+		}
+	}
+}
+{
+	"package" : "bear/package",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 886
+			}
+		}
+	}
+}
+{
+	"package" : "aura/view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 809
+			}
+		}
+	}
+}
+{
+	"package" : "njasm/container",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 773
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-aurarouter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 772
+			}
+		}
+	}
+}
+{
+	"package" : "clean/repository",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 717
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-expressive-aurarouter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 694
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 675
+			}
+		}
+	}
+}
+{
+	"package" : "aura/dispatcher",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 653
+			}
+		}
+	}
+}
+{
+	"package" : "emonkak/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 649
+			}
+		}
+	}
+}
+{
+	"package" : "api-clients/resource-generator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 580
+			}
+		}
+	}
+}
+{
+	"package" : "aura/project-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 542
+			}
+		}
+	}
+}
+{
+	"package" : "ray/aura-sql-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 516
+			}
+		}
+	}
+}
+{
+	"package" : "aura/cli-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 512
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-auradi-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 487
+			}
+		}
+	}
+}
+{
+	"package" : "bear/aura-router-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 445
+			}
+		}
+	}
+}
+{
+	"package" : "chubbyphp/chubbyphp-framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 427
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-skeleton",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 418
+			}
+		}
+	}
+}
+{
+	"package" : "bookdown/bookdown",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 393
+			}
+		}
+	}
+}
+{
+	"package" : "yourls/yourls",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 332
+			}
+		}
+	}
+}
+{
+	"package" : "dxw/iguana",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 322
+			}
+		}
+	}
+}
+{
+	"package" : "fool/executor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 312
+			}
+		}
+	}
+}
+{
+	"package" : "m1ke/easy-sql",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 306
+			}
+		}
+	}
+}
+{
+	"package" : "aura/input",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 301
+			}
+		}
+	}
+}
+{
+	"package" : "maxgaurav/laravel-sns-sqs-queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 293
+			}
+		}
+	}
+}
+{
+	"package" : "g4/router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 279
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/aura-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 264
+			}
+		}
+	}
+}
+{
+	"package" : "weavephp/container-aura",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 255
+			}
+		}
+	}
+}
+{
+	"package" : "tastyigniter/tastyigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 244
+			}
+		}
+	}
+}
+{
+	"package" : "samsonasik/error-hero-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 195
+			}
+		}
+	}
+}
+{
+	"package" : "aurawindsurfing/google-translate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 185
+			}
+		}
+	}
+}
+{
+	"package" : "aura/web-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 181
+			}
+		}
+	}
+}
+{
+	"package" : "wp4laravel/wp4laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 172
+			}
+		}
+	}
+}
+{
+	"package" : "morrislaptop/advanced-custom-fields-wpcli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 171
+			}
+		}
+	}
+}
+{
+	"package" : "graze/dal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 168
+			}
+		}
+	}
+}
+{
+	"package" : "aura/signal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 158
+			}
+		}
+	}
+}
+{
+	"package" : "slick/webstack",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 154
+			}
+		}
+	}
+}
+{
+	"package" : "ray/aura-web-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 134
+			}
+		}
+	}
+}
+{
+	"package" : "maxgaurav/laravel-sns-broadcaster",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 133
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-expressive-skeleton",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 127
+			}
+		}
+	}
+}
+{
+	"package" : "hiraeth/session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 125
+			}
+		}
+	}
+}
+{
+	"package" : "shameerc/slim3-aura-di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 122
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/aura-session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 111
+			}
+		}
+	}
+}
+{
+	"package" : "aura-is-here/laravel-multi-tenant",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 107
+			}
+		}
+	}
+}
+{
+	"package" : "aura/uri",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 95
+			}
+		}
+	}
+}
+{
+	"package" : "console-helpers/db-migration",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 72
+			}
+		}
+	}
+}
+{
+	"package" : "radar/adr",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 63
+			}
+		}
+	}
+}
+{
+	"package" : "streamcommon/doctrine-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 59
+			}
+		}
+	}
+}
+{
+	"package" : "aura/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 59
+			}
+		}
+	}
+}
+{
+	"package" : "betalabs/engine-phpsdk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 54
+			}
+		}
+	}
+}
+{
+	"package" : "ray/aura-session-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 53
+			}
+		}
+	}
+}
+{
+	"package" : "nikolaposa/phoundation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 51
+			}
+		}
+	}
+}
+{
+	"package" : "damess/expressive-session-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 45
+			}
+		}
+	}
+}
+{
+	"package" : "antwerpfactory/laravel-lightspeed-restaurant",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 44
+			}
+		}
+	}
+}
+{
+	"package" : "aviat/ion",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 41
+			}
+		}
+	}
+}
+{
+	"package" : "weavephp/router-aura",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 34
+			}
+		}
+	}
+}
+{
+	"package" : "openrestaurant/openrestaurant-project",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 33
+			}
+		}
+	}
+}
+{
+	"package" : "aura/includer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 33
+			}
+		}
+	}
+}
+{
+	"package" : "madebyaura/aura-wp-tools",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 23
+			}
+		}
+	}
+}
+{
+	"package" : "kilbiller/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 23
+			}
+		}
+	}
+}
+{
+	"package" : "openrestaurant/openrestaurant",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 19
+			}
+		}
+	}
+}
+{
+	"package" : "satomif/extra-aura-filter-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 19
+			}
+		}
+	}
+}
+{
+	"package" : "los/los-rate-limit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17
+			}
+		}
+	}
+}
+{
+	"package" : "jerowork/aura-router-nested-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17
+			}
+		}
+	}
+}
+{
+	"package" : "foa/html-view-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17
+			}
+		}
+	}
+}
+{
+	"package" : "ray/web-form-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17
+			}
+		}
+	}
+}
+{
+	"package" : "oscarotero/folk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13
+			}
+		}
+	}
+}
+{
+	"package" : "impresspages/impresspages",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12
+			}
+		}
+	}
+}
+{
+	"package" : "alexssssss/ormmodel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12
+			}
+		}
+	}
+}
+{
+	"package" : "hum2/twig-form",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10
+			}
+		}
+	}
+}

@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26065561
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1081694
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1046293
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 676972
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/ci-phpunit-test",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 274466
+			}
+		}
+	}
+}
+{
+	"package" : "graham-campbell/security",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 273097
+			}
+		}
+	}
+}
+{
+	"package" : "chriskacerguis/codeigniter-restserver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 106695
+			}
+		}
+	}
+}
+{
+	"package" : "graham-campbell/security-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 51052
+			}
+		}
+	}
+}
+{
+	"package" : "loginradius/php-sdk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 44149
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-ss-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39255
+			}
+		}
+	}
+}
+{
+	"package" : "rogeriopradoj/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35960
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/codeigniter4-standard",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35142
+			}
+		}
+	}
+}
+{
+	"package" : "frozennode/xssinput",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 33051
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26473
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-composer-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26172
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/appstarter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22054
+			}
+		}
+	}
+}
+{
+	"package" : "compwright/codeigniter-installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21387
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20742
+			}
+		}
+	}
+}
+{
+	"package" : "jamierumbelow/presenters",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 19901
+			}
+		}
+	}
+}
+{
+	"package" : "tan5en5/codeigniter-debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 18497
+			}
+		}
+	}
+}
+{
+	"package" : "genealabs/phpgmaps",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15402
+			}
+		}
+	}
+}
+{
+	"package" : "luthier/luthier",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15160
+			}
+		}
+	}
+}
+{
+	"package" : "jamierumbelow/pigeon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14576
+			}
+		}
+	}
+}
+{
+	"package" : "loginradius/php-sdk-2.0",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13727
+			}
+		}
+	}
+}
+{
+	"package" : "rougin/spark-plug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12556
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11688
+			}
+		}
+	}
+}
+{
+	"package" : "gloudemans/calendar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10932
+			}
+		}
+	}
+}
+{
+	"package" : "celc/ciunit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10085
+			}
+		}
+	}
+}
+{
+	"package" : "nails/common",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9332
+			}
+		}
+	}
+}
+{
+	"package" : "seunmatt/codeigniter-log-viewer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8903
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/restclient",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8657
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-deployer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8636
+			}
+		}
+	}
+}
+{
+	"package" : "lonnieezell/codeigniter-forensics",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8503
+			}
+		}
+	}
+}
+{
+	"package" : "bcit-ci/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8481
+			}
+		}
+	}
+}
+{
+	"package" : "scissorhands/ci-utilities",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8080
+			}
+		}
+	}
+}
+{
+	"package" : "mult1mate/cron-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7799
+			}
+		}
+	}
+}
+{
+	"package" : "jacopo/authentication-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7731
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-doctrine",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7667
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/bower",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7549
+			}
+		}
+	}
+}
+{
+	"package" : "ellislab/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7534
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-cdn",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7347
+			}
+		}
+	}
+}
+{
+	"package" : "phpmv/php-mv-ui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7069
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6490
+			}
+		}
+	}
+}
+{
+	"package" : "romainrg/codeigniter-php-amqplib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6268
+			}
+		}
+	}
+}
+{
+	"package" : "romainrg/codeigniter-rabbitmq-library",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6112
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5789
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/restserver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5693
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/common",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5685
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-cdn-local",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5361
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-queue-worker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5259
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/origami",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5075
+			}
+		}
+	}
+}
+{
+	"package" : "typo3/flow-composer-installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5031
+			}
+		}
+	}
+}
+{
+	"package" : "skyronic/crudkit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4917
+			}
+		}
+	}
+}
+{
+	"package" : "vics80/calendar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4866
+			}
+		}
+	}
+}
+{
+	"package" : "nerones/codeigniter-phpcs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4797
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-admin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4717
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-admin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4702
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4696
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-cdn",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4567
+			}
+		}
+	}
+}
+{
+	"package" : "gccloud/parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4561
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-phpunit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4453
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4413
+			}
+		}
+	}
+}
+{
+	"package" : "appitventures/phpgmaps",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4233
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4223
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-asset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4202
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4122
+			}
+		}
+	}
+}
+{
+	"package" : "rougin/combustor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4019
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3990
+			}
+		}
+	}
+}
+{
+	"package" : "gccloud/model",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3861
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-asset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3779
+			}
+		}
+	}
+}
+{
+	"package" : "gccloud/db-driver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3638
+			}
+		}
+	}
+}
+{
+	"package" : "rougin/refinery",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3614
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-cms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3499
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-cms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3480
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-event",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3462
+			}
+		}
+	}
+}
+{
+	"package" : "rossmann-it/yii2-cron",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3421
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-model",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3370
+			}
+		}
+	}
+}
+{
+	"package" : "expressodev/laravel-codeigniter-db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3305
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-error-handler-default",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3239
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/driver-cdn-local",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3222
+			}
+		}
+	}
+}
+{
+	"package" : "okipa/php-data-sanitizer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3195
+			}
+		}
+	}
+}
+{
+	"package" : "hanischit/codeigniter-restserver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3136
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-pdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3099
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/module-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3073
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-pdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2902
+			}
+		}
+	}
+}
+{
+	"package" : "nails/command-line-tool",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2847
+			}
+		}
+	}
+}
+{
+	"package" : "nailsapp/nails",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2781
+			}
+		}
+	}
+}
+{
+	"package" : "nails/nails",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2760
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-invoice",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2649
+			}
+		}
+	}
+}
+{
+	"package" : "rougin/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2584
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-cron",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2564
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-currency",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2515
+			}
+		}
+	}
+}
+{
+	"package" : "aviat/query",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2499
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-psr4-autoload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2464
+			}
+		}
+	}
+}
+{
+	"package" : "jamierumbelow/codeigniter-base-model",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2440
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-captcha",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2422
+			}
+		}
+	}
+}
+{
+	"package" : "sabmeua/ci-dynamodb-session-driver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2188
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-event",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2178
+			}
+		}
+	}
+}
+{
+	"package" : "simonhamp/routes",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2139
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-elasticsearch",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2123
+			}
+		}
+	}
+}

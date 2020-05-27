@@ -1,0 +1,1000 @@
+{
+	"package" : "nesbot/carbon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 112631927
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 88116852
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/tinker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 50155152
+			}
+		}
+	}
+}
+{
+	"package" : "fideloper/proxy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 41313334
+			}
+		}
+	}
+}
+{
+	"package" : "intervention/image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30172909
+			}
+		}
+	}
+}
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26065561
+			}
+		}
+	}
+}
+{
+	"package" : "laravelcollective/html",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21785383
+			}
+		}
+	}
+}
+{
+	"package" : "nunomaduro/collision",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21386747
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/support",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21007704
+			}
+		}
+	}
+}
+{
+	"package" : "barryvdh/laravel-debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 19404288
+			}
+		}
+	}
+}
+{
+	"package" : "barryvdh/laravel-ide-helper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 18918427
+			}
+		}
+	}
+}
+{
+	"package" : "maatwebsite/excel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17769696
+			}
+		}
+	}
+}
+{
+	"package" : "cocur/slugify",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16609476
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/container",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15827508
+			}
+		}
+	}
+}
+{
+	"package" : "league/fractal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15773523
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14771562
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11742254
+			}
+		}
+	}
+}
+{
+	"package" : "beyondcode/laravel-dump-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11035024
+			}
+		}
+	}
+}
+{
+	"package" : "barryvdh/laravel-cors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10823255
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/events",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10727663
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/filesystem",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10649153
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/socialite",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10166784
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/passport",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10099903
+			}
+		}
+	}
+}
+{
+	"package" : "tymon/jwt-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9107092
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8565362
+			}
+		}
+	}
+}
+{
+	"package" : "sentry/sentry-laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8440070
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8131666
+			}
+		}
+	}
+}
+{
+	"package" : "barryvdh/laravel-dompdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8006731
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7979734
+			}
+		}
+	}
+}
+{
+	"package" : "jenssegers/agent",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7863178
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7417302
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7301894
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7280759
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/slack-notification-channel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7172937
+			}
+		}
+	}
+}
+{
+	"package" : "aws/aws-sdk-php-laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7070121
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7000109
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/pagination",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6957724
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/pipeline",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6954437
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/encryption",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6907233
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/translation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6813189
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6737387
+			}
+		}
+	}
+}
+{
+	"package" : "bugsnag/bugsnag-laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6544766
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/bus",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6488585
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/hashing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6366548
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6248171
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/nexmo-notification-channel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6080124
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/lumen-framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6028413
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/broadcasting",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5945174
+			}
+		}
+	}
+}
+{
+	"package" : "yajra/laravel-datatables-oracle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5644721
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/laravel-permission",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5224001
+			}
+		}
+	}
+}
+{
+	"package" : "league/climate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4977001
+			}
+		}
+	}
+}
+{
+	"package" : "facade/ignition",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4904153
+			}
+		}
+	}
+}
+{
+	"package" : "facade/flare-client-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4872045
+			}
+		}
+	}
+}
+{
+	"package" : "webpatser/laravel-uuid",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4774711
+			}
+		}
+	}
+}
+{
+	"package" : "maknz/slack",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4706776
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/horizon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4599598
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/dusk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4542482
+			}
+		}
+	}
+}
+{
+	"package" : "graham-campbell/manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4321511
+			}
+		}
+	}
+}
+{
+	"package" : "laracasts/flash",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4004795
+			}
+		}
+	}
+}
+{
+	"package" : "gettext/gettext",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3982463
+			}
+		}
+	}
+}
+{
+	"package" : "tightenco/collect",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3980289
+			}
+		}
+	}
+}
+{
+	"package" : "anahkiasen/underscore-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3824475
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3789758
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/image-optimizer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3724263
+			}
+		}
+	}
+}
+{
+	"package" : "zizaco/entrust",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3681991
+			}
+		}
+	}
+}
+{
+	"package" : "jenssegers/date",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3664839
+			}
+		}
+	}
+}
+{
+	"package" : "barryvdh/laravel-snappy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3651684
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/scout",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3391042
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/homestead",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3311849
+			}
+		}
+	}
+}
+{
+	"package" : "pragmarx/google2fa",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3270305
+			}
+		}
+	}
+}
+{
+	"package" : "dingo/api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3151316
+			}
+		}
+	}
+}
+{
+	"package" : "davejamesmiller/laravel-breadcrumbs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3079941
+			}
+		}
+	}
+}
+{
+	"package" : "dingo/blueprint",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2999117
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/redis",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2998917
+			}
+		}
+	}
+}
+{
+	"package" : "jenssegers/mongodb",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2991196
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/cashier",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2979103
+			}
+		}
+	}
+}
+{
+	"package" : "propaganistas/laravel-phone",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2935200
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/log",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2906114
+			}
+		}
+	}
+}
+{
+	"package" : "cviebrock/eloquent-sluggable",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2843164
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/laravel-backup",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2709509
+			}
+		}
+	}
+}
+{
+	"package" : "rap2hpoutre/laravel-log-viewer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2706793
+			}
+		}
+	}
+}
+{
+	"package" : "illuminate/html",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2681150
+			}
+		}
+	}
+}
+{
+	"package" : "itsgoingd/clockwork",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2608734
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/laravel-fractal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2601539
+			}
+		}
+	}
+}
+{
+	"package" : "laracasts/utilities",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2594093
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/browser-kit-testing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2584676
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/laravel-activitylog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2387978
+			}
+		}
+	}
+}
+{
+	"package" : "prettus/l5-repository",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2382676
+			}
+		}
+	}
+}
+{
+	"package" : "simplesoftwareio/simple-qrcode",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2377068
+			}
+		}
+	}
+}
+{
+	"package" : "prettus/laravel-validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2364285
+			}
+		}
+	}
+}
+{
+	"package" : "chumper/zipper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2318314
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/laravel-medialibrary",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2293823
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/telescope",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2289576
+			}
+		}
+	}
+}
+{
+	"package" : "spatie/fractalistic",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2287520
+			}
+		}
+	}
+}
+{
+	"package" : "orchestra/testbench",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2279889
+			}
+		}
+	}
+}
+{
+	"package" : "socialiteproviders/manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2231208
+			}
+		}
+	}
+}
+{
+	"package" : "owen-it/laravel-auditing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2201151
+			}
+		}
+	}
+}
+{
+	"package" : "laracasts/generators",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2185840
+			}
+		}
+	}
+}
+{
+	"package" : "mews/purifier",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2080960
+			}
+		}
+	}
+}
+{
+	"package" : "intervention/imagecache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2020779
+			}
+		}
+	}
+}

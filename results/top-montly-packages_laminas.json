@@ -1,0 +1,1000 @@
+{
+	"package" : "ocramius/proxy-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1602269
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-zendframework-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 828929
+			}
+		}
+	}
+}
+{
+	"package" : "league/oauth2-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 713435
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/passport",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 552633
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/curl-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 456044
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-eventmanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 434920
+			}
+		}
+	}
+}
+{
+	"package" : "drupal/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 416747
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-code",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 410886
+			}
+		}
+	}
+}
+{
+	"package" : "slim/slim",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 328486
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-diactoros",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 287542
+			}
+		}
+	}
+}
+{
+	"package" : "league/uri-components",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 166612
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-stdlib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 163443
+			}
+		}
+	}
+}
+{
+	"package" : "riverline/multipart-parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 140326
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 137212
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-escaper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 122869
+			}
+		}
+	}
+}
+{
+	"package" : "drupal/core-recommended",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 101587
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-validator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 94464
+			}
+		}
+	}
+}
+{
+	"package" : "bensampo/laravel-enum",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 83400
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-servicemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 82614
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-filter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 72083
+			}
+		}
+	}
+}
+{
+	"package" : "liip/monitor-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 65122
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-feed",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 63026
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-inputfilter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 58653
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-loader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 56751
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-httphandlerrunner",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 56478
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 54501
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-orm-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 49404
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-uri",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 49241
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-json",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 46926
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mime",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 44080
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 43077
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 42299
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-hydrator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 39653
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 39031
+			}
+		}
+	}
+}
+{
+	"package" : "goaop/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 38713
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/cms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 38414
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 38203
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mvc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 32581
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 32469
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-modulemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 31155
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-math",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 31141
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30744
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-diagnostics",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 29677
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 29445
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-form",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 29268
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 28351
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 28235
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mail",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 27845
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-stratigility",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 27298
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 27166
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 26086
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-dependency-plugin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 26022
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-serializer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 25105
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-log",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 24622
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 23676
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/utils",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 22448
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-crypt",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 22377
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/vapor-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 21776
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-component-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 21716
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-soap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 21130
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-text",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 20313
+			}
+		}
+	}
+}
+{
+	"package" : "relay/relay",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 19215
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-development-mode",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18805
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18176
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-config-aggregator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17992
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-paginator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17932
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-template",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 16401
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-xml",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15703
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15414
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mvc-i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14893
+			}
+		}
+	}
+}
+{
+	"package" : "chartmogul/chartmogul-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14668
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-psr7bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14518
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-problem-details",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14261
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-permissions-acl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14213
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mvc-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14128
+			}
+		}
+	}
+}
+{
+	"package" : "goetas-webservices/xsd2php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14057
+			}
+		}
+	}
+}
+{
+	"package" : "rwoverdijk/assetmanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14007
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13691
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-dom",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13478
+			}
+		}
+	}
+}
+{
+	"package" : "webflo/drupal-core-strict",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13304
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-ldap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12927
+			}
+		}
+	}
+}
+{
+	"package" : "fr3d/swagger-assertions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11964
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-authentication-oauth2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11612
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-fastroute",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11438
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-captcha",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11146
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-mvc-plugin-flashmessenger",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11080
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-test",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10831
+			}
+		}
+	}
+}
+{
+	"package" : "slim/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10741
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-permissions-rbac",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10325
+			}
+		}
+	}
+}
+{
+	"package" : "hyperf/http-message",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10298
+			}
+		}
+	}
+}
+{
+	"package" : "shopware/shopware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10246
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9901
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-composer-autoloading",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9692
+			}
+		}
+	}
+}
+{
+	"package" : "jenssegers/proxy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9650
+			}
+		}
+	}
+}
+{
+	"package" : "mmucklo/email-parse",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9046
+			}
+		}
+	}
+}
+{
+	"package" : "ecodev/graphql-upload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9002
+			}
+		}
+	}
+}
+{
+	"package" : "eonx-com/externals",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8875
+			}
+		}
+	}
+}
+{
+	"package" : "laravel-zero/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8688
+			}
+		}
+	}
+}
+{
+	"package" : "laminas/laminas-xmlrpc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8486
+			}
+		}
+	}
+}
+{
+	"package" : "ob/highcharts-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8294
+			}
+		}
+	}
+}

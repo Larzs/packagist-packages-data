@@ -1,0 +1,730 @@
+{
+	"package" : "phpixie/image",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 29327
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/validate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21940
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/slice",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20159
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 19279
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17918
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/filesystem",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17561
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17430
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16878
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/paginate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16679
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/debug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16234
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/template",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16078
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/auth-login",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16067
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/route",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16057
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16025
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/paginate-orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16003
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16002
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/security",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15998
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/processors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15991
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/auth-http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15983
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/auth-orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15974
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/http-processors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15929
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/auth-processors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15920
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/bundles",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15861
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/bundle-framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15791
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/default-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15616
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/social",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12328
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/auth-social",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12158
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12127
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11839
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11823
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11688
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/migrate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11237
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10667
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/framework-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10414
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/test",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10158
+			}
+		}
+	}
+}
+{
+	"package" : "deimos/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8695
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/project",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7647
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4750
+			}
+		}
+	}
+}
+{
+	"package" : "vestnik/modvert2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1240
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 741
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/project-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 558
+			}
+		}
+	}
+}
+{
+	"package" : "jowy/vinnige",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 165
+			}
+		}
+	}
+}
+{
+	"package" : "pinguinio/puffin-framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 113
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/amalgama",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 93
+			}
+		}
+	}
+}
+{
+	"package" : "meling/document",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 65
+			}
+		}
+	}
+}
+{
+	"package" : "koka/phpixie-bootstrap3-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 60
+			}
+		}
+	}
+}
+{
+	"package" : "koka/flash",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 60
+			}
+		}
+	}
+}
+{
+	"package" : "meling/toolbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 58
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/messages",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 58
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/document",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 57
+			}
+		}
+	}
+}
+{
+	"package" : "meling/phpixie-abac",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/images",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 51
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/haml",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/processors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 48
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/orm-wrappers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/mailer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 43
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/filesafe",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 43
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/nxeed-i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/sylph",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 36
+			}
+		}
+	}
+}
+{
+	"package" : "akademiano/content-files-images",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26
+			}
+		}
+	}
+}
+{
+	"package" : "mshevtsov/phpixie-party",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25
+			}
+		}
+	}
+}
+{
+	"package" : "phpbenchmarks/phpixie-common",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25
+			}
+		}
+	}
+}
+{
+	"package" : "datainlife/social",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/illusion",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15
+			}
+		}
+	}
+}
+{
+	"package" : "fridde/sql",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14
+			}
+		}
+	}
+}
+{
+	"package" : "rudolfcms/rudolf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/toolbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12
+			}
+		}
+	}
+}
+{
+	"package" : "visavi/codeception-phpixie",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11
+			}
+		}
+	}
+}
+{
+	"package" : "deimos/phpcount",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9
+			}
+		}
+	}
+}
+{
+	"package" : "phpixie/l18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/php-abac",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6
+			}
+		}
+	}
+}
+{
+	"package" : "parishop/project",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6
+			}
+		}
+	}
+}
+{
+	"package" : "vvp33/phpixie-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3
+			}
+		}
+	}
+}

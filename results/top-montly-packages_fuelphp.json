@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 803222
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 24101
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/upload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14598
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/oil",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13127
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12792
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12708
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12615
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11906
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11761
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/docs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5496
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3929
+			}
+		}
+	}
+}
+{
+	"package" : "eviweb/fuelphp-phpcs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 529
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/fuel-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 489
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/fuel-orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 380
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/fuel-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 351
+			}
+		}
+	}
+}
+{
+	"package" : "fuel/fuel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 326
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/alias",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 323
+			}
+		}
+	}
+}
+{
+	"package" : "macellan/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 322
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 311
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/daemon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 295
+			}
+		}
+	}
+}
+{
+	"package" : "okipa/php-data-sanitizer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 188
+			}
+		}
+	}
+}
+{
+	"package" : "aspendigital/fuel-doctrine2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 179
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/postal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 171
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/event",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 140
+			}
+		}
+	}
+}
+{
+	"package" : "travis/composer-installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 129
+			}
+		}
+	}
+}
+{
+	"package" : "synergitech/fuelphp-messages",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 59
+			}
+		}
+	}
+}
+{
+	"package" : "hinashiki/fuelphp-queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 58
+			}
+		}
+	}
+}
+{
+	"package" : "hinashiki/fuelphp-seo",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 58
+			}
+		}
+	}
+}
+{
+	"package" : "hinashiki/fuelphp-maintenance",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 38
+			}
+		}
+	}
+}
+{
+	"package" : "retdaisuke/laravel-fuelphp-hashing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 34
+			}
+		}
+	}
+}
+{
+	"package" : "feldsam-inc/fuel-parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30
+			}
+		}
+	}
+}
+{
+	"package" : "feldsam-inc/fuel-oil",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30
+			}
+		}
+	}
+}
+{
+	"package" : "feldsam-inc/fuel-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30
+			}
+		}
+	}
+}
+{
+	"package" : "iturgeon/qasset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 20
+			}
+		}
+	}
+}
+{
+	"package" : "jacopo/authentication-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 20
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/common",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17
+			}
+		}
+	}
+}
+{
+	"package" : "acid-solutions/input-sanitizer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/fieldset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11
+			}
+		}
+	}
+}
+{
+	"package" : "rcrowe/turbo",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8
+			}
+		}
+	}
+}
+{
+	"package" : "mxrck/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6
+			}
+		}
+	}
+}
+{
+	"package" : "vesselinv/fuel-sprockets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4
+			}
+		}
+	}
+}
+{
+	"package" : "soundintheory/fuel-cmf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/filesystem",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/routing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "thesoftnet/authentication-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/demo-component",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/dependency",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/display",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/foundation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/package-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/security",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "cyberschias/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "frostbane/array",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "frostbane/autoloader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "davispuh/fuelphp-lang",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "hosopy/fuel-jobqueue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "cy-katsuhiro-miura/fuelphp-with-fluentd",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/admin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "bitapihub/api-optimization-engine",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "denisdavletshin/sentry-social",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/agent",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/base",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "biexiang/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/common",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/app-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/ecommerce",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "imasami/factory-gas",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelcreate/scaffold",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "acl/acl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/boilerplate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/fuelphp-doctrine",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "in7rude/laravel-fuelphp-hashing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "directcall/directcall-fuelphp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/fuelphp-dbal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/asset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "bitapihub/fuelphp-segment-io",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/fuelphp-fieldset-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "dohzoh/phpspec-fuel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/fuelphp-menu",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "indigophp/theme-default",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/classloader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "it-can/fuel-mandriller",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "dreamfactory/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "iturgeon/fuelfilter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/component-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "jackbbhua/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "acconplish/customsentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "anndro/sentry_ldap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "emlynwest/setui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "jidaikobo/excel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "jidaikobo/locomo",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "jidaikobo/pdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "fuelphp/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "josh-g/fuelphp-queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}
+{
+	"package" : "kevbaldwyn/newrelic-fuel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 0
+			}
+		}
+	}
+}

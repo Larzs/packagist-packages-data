@@ -1,0 +1,1000 @@
+{
+	"package" : "guzzlehttp/guzzle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 168514253
+			}
+		}
+	}
+}
+{
+	"package" : "sensio/framework-extra-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53872417
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-eventmanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 50915443
+			}
+		}
+	}
+}
+{
+	"package" : "guzzle/guzzle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49170818
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-code",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 48311265
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-diactoros",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 44334857
+			}
+		}
+	}
+}
+{
+	"package" : "justinrainbow/json-schema",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 42970982
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-stdlib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 40452558
+			}
+		}
+	}
+}
+{
+	"package" : "ocramius/proxy-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39153798
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-escaper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 28420891
+			}
+		}
+	}
+}
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26065561
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/psr-http-message-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23803003
+			}
+		}
+	}
+}
+{
+	"package" : "sentry/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22640600
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/message",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21730601
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-validator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21557022
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/discovery",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20974198
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-servicemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17890046
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-loader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17437602
+			}
+		}
+	}
+}
+{
+	"package" : "cocur/slugify",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16609476
+			}
+		}
+	}
+}
+{
+	"package" : "league/oauth2-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15927046
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-uri",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15890016
+			}
+		}
+	}
+}
+{
+	"package" : "league/fractal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15773523
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14952996
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-json",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14884556
+			}
+		}
+	}
+}
+{
+	"package" : "phpmailer/phpmailer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13948473
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-feed",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13624401
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-filter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13549006
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12565646
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-math",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12427400
+			}
+		}
+	}
+}
+{
+	"package" : "zircote/swagger-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12173744
+			}
+		}
+	}
+}
+{
+	"package" : "slim/slim",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11764538
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11707543
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-hydrator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11640577
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-serializer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10657741
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-inputfilter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10160145
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/passport",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10099903
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-crypt",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9903850
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-server",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9734161
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9627128
+			}
+		}
+	}
+}
+{
+	"package" : "league/oauth2-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9515767
+			}
+		}
+	}
+}
+{
+	"package" : "drupal/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9446645
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-mvc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9257342
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-form",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9176322
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-modulemanager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9166413
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-log",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9081990
+			}
+		}
+	}
+}
+{
+	"package" : "easyrdf/easyrdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8910527
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8703212
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-soap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8696317
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-mime",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8419017
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/curl-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8365816
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-text",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8163881
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-mail",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7852780
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7741200
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7465294
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7269079
+			}
+		}
+	}
+}
+{
+	"package" : "willdurand/geocoder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7218301
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6913120
+			}
+		}
+	}
+}
+{
+	"package" : "solarium/solarium",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6681226
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/multipart-stream-builder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6211445
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zendxml",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6016261
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-captcha",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5836438
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zenddiagnostics",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5752015
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zendframework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5568157
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5398004
+			}
+		}
+	}
+}
+{
+	"package" : "magento/zendframework1",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5267704
+			}
+		}
+	}
+}
+{
+	"package" : "respect/validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5237476
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-psr7bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5165764
+			}
+		}
+	}
+}
+{
+	"package" : "bshaffer/oauth2-server-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5009743
+			}
+		}
+	}
+}
+{
+	"package" : "colinmollenhour/cache-backend-redis",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4692568
+			}
+		}
+	}
+}
+{
+	"package" : "colinmollenhour/cache-backend-file",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4610209
+			}
+		}
+	}
+}
+{
+	"package" : "zendesk/zendesk_api_client_php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4609635
+			}
+		}
+	}
+}
+{
+	"package" : "egeloen/http-adapter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4592187
+			}
+		}
+	}
+}
+{
+	"package" : "league/uri",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4516543
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zendframework1",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4386063
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3957351
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-barcode",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3906958
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-paginator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3861088
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-permissions-acl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3330675
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3327998
+			}
+		}
+	}
+}
+{
+	"package" : "phpoffice/phpword",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3277393
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-memory",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3132420
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-orm-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3065777
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-xmlrpc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2993175
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-dom",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2861038
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-debug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2669970
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-permissions-rbac",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2648455
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-test",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2615770
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-navigation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2526976
+			}
+		}
+	}
+}
+{
+	"package" : "league/uri-components",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2488334
+			}
+		}
+	}
+}
+{
+	"package" : "league/uri-manipulations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2399760
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-file",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2381332
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-i18n-resources",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2368034
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-version",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2233850
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-developer-tools",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2232129
+			}
+		}
+	}
+}
+{
+	"package" : "phpdocumentor/phpdocumentor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2162450
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-progressbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2154382
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zendservice-apple-apns",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2143088
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-ldap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2127793
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-tag",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2105068
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zendservice-google-gcm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2048970
+			}
+		}
+	}
+}

@@ -1,0 +1,1000 @@
+{
+	"package" : "phalcon/incubator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1330901
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/devtools",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 862962
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/ide-stubs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 384824
+			}
+		}
+	}
+}
+{
+	"package" : "fabfuel/prophiler",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 179049
+			}
+		}
+	}
+}
+{
+	"package" : "thephalcons/amazon-webservices-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 156663
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/zephir",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 146660
+			}
+		}
+	}
+}
+{
+	"package" : "phalcongelist/php-diff",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 111489
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon-ext/mailer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 86573
+			}
+		}
+	}
+}
+{
+	"package" : "techpivot/phalcon-ci-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 68334
+			}
+		}
+	}
+}
+{
+	"package" : "logikos/util",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66030
+			}
+		}
+	}
+}
+{
+	"package" : "snowair/phalcon-debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 45467
+			}
+		}
+	}
+}
+{
+	"package" : "sneakybobito/phalcon-stubs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38248
+			}
+		}
+	}
+}
+{
+	"package" : "whoops/phalcon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 34721
+			}
+		}
+	}
+}
+{
+	"package" : "phalette/platte",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 34432
+			}
+		}
+	}
+}
+{
+	"package" : "phalette/pidic",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 34205
+			}
+		}
+	}
+}
+{
+	"package" : "sidroberts/phalcon-cron",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 31444
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/dd",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 29546
+			}
+		}
+	}
+}
+{
+	"package" : "m1ome/phalcon-datatables",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25730
+			}
+		}
+	}
+}
+{
+	"package" : "danzabar/phalcon-cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23641
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/breadcrumbs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 18968
+			}
+		}
+	}
+}
+{
+	"package" : "redound/phalcon-rest",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15901
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/cphalcon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15804
+			}
+		}
+	}
+}
+{
+	"package" : "khoinguyen/phalcon-monolog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13634
+			}
+		}
+	}
+}
+{
+	"package" : "codeception/module-phalcon4",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12041
+			}
+		}
+	}
+}
+{
+	"package" : "digitronac/phalcon-ide-stubs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12026
+			}
+		}
+	}
+}
+{
+	"package" : "stanislav-web/phalcon-uploader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11884
+			}
+		}
+	}
+}
+{
+	"package" : "sachoo/phalcon-model-annotations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11812
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/service-sdk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11508
+			}
+		}
+	}
+}
+{
+	"package" : "sachoo/phalcon-console-migration",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11380
+			}
+		}
+	}
+}
+{
+	"package" : "dmkit/phalcon-jwt-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11267
+			}
+		}
+	}
+}
+{
+	"package" : "magroski/frogg",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11165
+			}
+		}
+	}
+}
+{
+	"package" : "sachoo/phalcon-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11131
+			}
+		}
+	}
+}
+{
+	"package" : "redound/phalcon-api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10570
+			}
+		}
+	}
+}
+{
+	"package" : "karen-nalbandian/phalcon-coding-standard",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10521
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon-ext/widgets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9464
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8913
+			}
+		}
+	}
+}
+{
+	"package" : "stibium/phalcon.eager-loading",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8762
+			}
+		}
+	}
+}
+{
+	"package" : "crazyfactory/phalcon-loggers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8737
+			}
+		}
+	}
+}
+{
+	"package" : "sachoo/phalcon-cassandra",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7719
+			}
+		}
+	}
+}
+{
+	"package" : "igsem/phalcon-swagger",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7530
+			}
+		}
+	}
+}
+{
+	"package" : "phpmv/php-mv-ui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7069
+			}
+		}
+	}
+}
+{
+	"package" : "ovr/phalcon-pretty-exceptions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6962
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/cli-options-parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6863
+			}
+		}
+	}
+}
+{
+	"package" : "talentify/phalcon-psr-adapters",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6557
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon/pretty-exceptions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6502
+			}
+		}
+	}
+}
+{
+	"package" : "bullhorn/fast-rest",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6422
+			}
+		}
+	}
+}
+{
+	"package" : "baka/phalcon-sqlsrv",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5784
+			}
+		}
+	}
+}
+{
+	"package" : "ienaga/phalcon-router-for-yaml",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5576
+			}
+		}
+	}
+}
+{
+	"package" : "ienaga/phalcon-redis-plugin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5545
+			}
+		}
+	}
+}
+{
+	"package" : "ienaga/phalcon-config-loader-for-yaml",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5467
+			}
+		}
+	}
+}
+{
+	"package" : "sidroberts/phalcon-authmiddleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5460
+			}
+		}
+	}
+}
+{
+	"package" : "phalconslayer/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5422
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5414
+			}
+		}
+	}
+}
+{
+	"package" : "phalcongelist/dd",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5196
+			}
+		}
+	}
+}
+{
+	"package" : "fizzka/phalcon-recaptcha",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5075
+			}
+		}
+	}
+}
+{
+	"package" : "denchikby/phalcon-mongodb-odm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5021
+			}
+		}
+	}
+}
+{
+	"package" : "baka/cashier",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4863
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/http-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4852
+			}
+		}
+	}
+}
+{
+	"package" : "popeye/phalcon-stubs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4576
+			}
+		}
+	}
+}
+{
+	"package" : "ovr/phalcony",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4473
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4333
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-enum",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4302
+			}
+		}
+	}
+}
+{
+	"package" : "phalconeye/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4203
+			}
+		}
+	}
+}
+{
+	"package" : "phrest/api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4160
+			}
+		}
+	}
+}
+{
+	"package" : "mattdanger/volt-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4144
+			}
+		}
+	}
+}
+{
+	"package" : "izica/phalcon-meta-tags",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4142
+			}
+		}
+	}
+}
+{
+	"package" : "davihu/phalcon-ext",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4106
+			}
+		}
+	}
+}
+{
+	"package" : "transactpro/phalcon-debug-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4106
+			}
+		}
+	}
+}
+{
+	"package" : "mamuz/phalcon-application",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4099
+			}
+		}
+	}
+}
+{
+	"package" : "phrest/sdk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4091
+			}
+		}
+	}
+}
+{
+	"package" : "chocofamilyme/profiler",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4028
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/structs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4005
+			}
+		}
+	}
+}
+{
+	"package" : "chocofamilyme/pathcorrelation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3992
+			}
+		}
+	}
+}
+{
+	"package" : "mattdanger/phalcon-table-sort",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3988
+			}
+		}
+	}
+}
+{
+	"package" : "dngb/phalcon-coding-standard",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3967
+			}
+		}
+	}
+}
+{
+	"package" : "chocofamilyme/logformatter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3917
+			}
+		}
+	}
+}
+{
+	"package" : "talentify/phalcon.eager-loading",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3880
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/service",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3620
+			}
+		}
+	}
+}
+{
+	"package" : "phalcon-ext/widget-pagination",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3439
+			}
+		}
+	}
+}
+{
+	"package" : "michele-angioni/phalcon-validators",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3416
+			}
+		}
+	}
+}
+{
+	"package" : "twistersfury/phalcon-shared",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3364
+			}
+		}
+	}
+}
+{
+	"package" : "zachleigh/yarak",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3304
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3293
+			}
+		}
+	}
+}
+{
+	"package" : "chocofamilyme/pubsub",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3261
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/phalcon-project-library",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3207
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-logger",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3194
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3180
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-db",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3145
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-helper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3136
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/postman",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3100
+			}
+		}
+	}
+}
+{
+	"package" : "codeages/phalcon-biz-library",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3088
+			}
+		}
+	}
+}
+{
+	"package" : "uniondrug/register",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3082
+			}
+		}
+	}
+}
+{
+	"package" : "zazza/phalcon2-debug-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3012
+			}
+		}
+	}
+}
+{
+	"package" : "chocofamilyme/restapi-exception",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3007
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2994
+			}
+		}
+	}
+}
+{
+	"package" : "michele-angioni/phalcon-confer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2987
+			}
+		}
+	}
+}
+{
+	"package" : "phalcongelist/breadcrumbs",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2952
+			}
+		}
+	}
+}
+{
+	"package" : "chocofamilyme/restapi-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2824
+			}
+		}
+	}
+}
+{
+	"package" : "limingxinleo/x-phalcon-request",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2765
+			}
+		}
+	}
+}
+{
+	"package" : "armonb/phalconify-database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2754
+			}
+		}
+	}
+}

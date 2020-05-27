@@ -1,0 +1,1000 @@
+{
+	"package" : "aws/aws-sdk-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2934192
+			}
+		}
+	}
+}
+{
+	"package" : "phpstan/phpstan",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 989716
+			}
+		}
+	}
+}
+{
+	"package" : "nette/utils",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 920357
+			}
+		}
+	}
+}
+{
+	"package" : "nette/finder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 779643
+			}
+		}
+	}
+}
+{
+	"package" : "nette/robot-loader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 708549
+			}
+		}
+	}
+}
+{
+	"package" : "nette/php-generator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 680742
+			}
+		}
+	}
+}
+{
+	"package" : "nette/neon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 617783
+			}
+		}
+	}
+}
+{
+	"package" : "nette/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 615857
+			}
+		}
+	}
+}
+{
+	"package" : "nette/bootstrap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 555601
+			}
+		}
+	}
+}
+{
+	"package" : "nette/schema",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 521167
+			}
+		}
+	}
+}
+{
+	"package" : "cocur/slugify",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 491761
+			}
+		}
+	}
+}
+{
+	"package" : "phpstan/phpstan-symfony",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 257076
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/package-builder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 193661
+			}
+		}
+	}
+}
+{
+	"package" : "jakub-onderka/php-parallel-lint",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 193135
+			}
+		}
+	}
+}
+{
+	"package" : "nette/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 164879
+			}
+		}
+	}
+}
+{
+	"package" : "nette/application",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 158074
+			}
+		}
+	}
+}
+{
+	"package" : "nette/component-model",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 155441
+			}
+		}
+	}
+}
+{
+	"package" : "nette/routing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 125033
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/smart-file-system",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 124805
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/set-config-resolver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 122480
+			}
+		}
+	}
+}
+{
+	"package" : "tracy/tracy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 122183
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/coding-standard",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 120932
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/easy-coding-standard",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 119829
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/auto-bind-parameter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 113016
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/autowire-array-parameter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 110108
+			}
+		}
+	}
+}
+{
+	"package" : "nette/caching",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 100829
+			}
+		}
+	}
+}
+{
+	"package" : "knplabs/doctrine-behaviors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 94843
+			}
+		}
+	}
+}
+{
+	"package" : "mglaman/phpstan-drupal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 69789
+			}
+		}
+	}
+}
+{
+	"package" : "latte/latte",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 64728
+			}
+		}
+	}
+}
+{
+	"package" : "rector/rector",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 64287
+			}
+		}
+	}
+}
+{
+	"package" : "object-calisthenics/phpcs-calisthenics-rules",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 60045
+			}
+		}
+	}
+}
+{
+	"package" : "nette/mail",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 56023
+			}
+		}
+	}
+}
+{
+	"package" : "nette/forms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 53544
+			}
+		}
+	}
+}
+{
+	"package" : "mglaman/drupal-check",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 52191
+			}
+		}
+	}
+}
+{
+	"package" : "nette/security",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 46792
+			}
+		}
+	}
+}
+{
+	"package" : "nette/reflection",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 45859
+			}
+		}
+	}
+}
+{
+	"package" : "dg/bypass-finals",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 45402
+			}
+		}
+	}
+}
+{
+	"package" : "nette/tester",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 39582
+			}
+		}
+	}
+}
+{
+	"package" : "pragmarx/countries",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 33905
+			}
+		}
+	}
+}
+{
+	"package" : "ergebnis/phpstan-rules",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 33236
+			}
+		}
+	}
+}
+{
+	"package" : "nette/database",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 32706
+			}
+		}
+	}
+}
+{
+	"package" : "phpstan/phpstan-nette",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 31647
+			}
+		}
+	}
+}
+{
+	"package" : "nette/safe-stream",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 31548
+			}
+		}
+	}
+}
+{
+	"package" : "alibabacloud/client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30590
+			}
+		}
+	}
+}
+{
+	"package" : "dg/composer-cleaner",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 30122
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/better-phpdoc-parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 26984
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/strict-objects",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 25012
+			}
+		}
+	}
+}
+{
+	"package" : "nette/tokenizer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 23839
+			}
+		}
+	}
+}
+{
+	"package" : "spryker/development",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 22845
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/token-runner",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 22403
+			}
+		}
+	}
+}
+{
+	"package" : "mexitek/phpcolors",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 22066
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 21382
+			}
+		}
+	}
+}
+{
+	"package" : "cpliakas/git-wrapper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 19888
+			}
+		}
+	}
+}
+{
+	"package" : "ublaboo/datagrid",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18738
+			}
+		}
+	}
+}
+{
+	"package" : "php-parallel-lint/php-parallel-lint",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18472
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/monorepo-builder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18312
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/events",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18244
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/phpstan-extensions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 18141
+			}
+		}
+	}
+}
+{
+	"package" : "dibi/dibi",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 17220
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/annotations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 16088
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/doctrine-cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15978
+			}
+		}
+	}
+}
+{
+	"package" : "spryker-sdk/spryk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15703
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15334
+			}
+		}
+	}
+}
+{
+	"package" : "pepakriz/phpstan-exception-rules",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 15254
+			}
+		}
+	}
+}
+{
+	"package" : "symplify/changelog-linker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14853
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/translation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14778
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/doctrine",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14752
+			}
+		}
+	}
+}
+{
+	"package" : "nette/nette",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 14079
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 13727
+			}
+		}
+	}
+}
+{
+	"package" : "ublaboo/responses",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12676
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/redis",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12320
+			}
+		}
+	}
+}
+{
+	"package" : "czproject/git-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12216
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/forms-replicator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 12083
+			}
+		}
+	}
+}
+{
+	"package" : "nette/deprecated",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 11379
+			}
+		}
+	}
+}
+{
+	"package" : "nettrine/migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 10418
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/monolog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9289
+			}
+		}
+	}
+}
+{
+	"package" : "texy/texy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9287
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/autowired",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9122
+			}
+		}
+	}
+}
+{
+	"package" : "nextras/secured-links",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8098
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/event-dispatcher",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8094
+			}
+		}
+	}
+}
+{
+	"package" : "cmb2/cmb2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8056
+			}
+		}
+	}
+}
+{
+	"package" : "janmarek/webloader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 8055
+			}
+		}
+	}
+}
+{
+	"package" : "nextras/migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7642
+			}
+		}
+	}
+}
+{
+	"package" : "slam/phpstan-extensions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 7254
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/application",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6848
+			}
+		}
+	}
+}
+{
+	"package" : "ninjify/qa",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6684
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/event-dispatcher-extra",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6615
+			}
+		}
+	}
+}
+{
+	"package" : "nettrine/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6611
+			}
+		}
+	}
+}
+{
+	"package" : "ninjify/nunjuck",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6548
+			}
+		}
+	}
+}
+{
+	"package" : "contributte/psr7-http-message",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6388
+			}
+		}
+	}
+}
+{
+	"package" : "nextras/dbal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6359
+			}
+		}
+	}
+}
+{
+	"package" : "apitte/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6324
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/monolog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6307
+			}
+		}
+	}
+}
+{
+	"package" : "nettrine/dbal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6267
+			}
+		}
+	}
+}
+{
+	"package" : "h4kuna/data-type",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6205
+			}
+		}
+	}
+}
+{
+	"package" : "kdyby/fake-session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6152
+			}
+		}
+	}
+}
+{
+	"package" : "nettrine/extensions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6042
+			}
+		}
+	}
+}
+{
+	"package" : "h4kuna/ares",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5998
+			}
+		}
+	}
+}
+{
+	"package" : "nextras/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5955
+			}
+		}
+	}
+}
+{
+	"package" : "nextras/mail-panel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5755
+			}
+		}
+	}
+}

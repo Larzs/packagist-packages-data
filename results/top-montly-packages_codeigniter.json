@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 803222
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentinel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 24101
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 21592
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/ci-phpunit-test",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 9119
+			}
+		}
+	}
+}
+{
+	"package" : "graham-campbell/security",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 6785
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5635
+			}
+		}
+	}
+}
+{
+	"package" : "graham-campbell/security-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5516
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/appstarter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 5245
+			}
+		}
+	}
+}
+{
+	"package" : "chriskacerguis/codeigniter-restserver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 4157
+			}
+		}
+	}
+}
+{
+	"package" : "cartalyst/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 3929
+			}
+		}
+	}
+}
+{
+	"package" : "loginradius/php-sdk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 2106
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/codeigniter4-standard",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1525
+			}
+		}
+	}
+}
+{
+	"package" : "ellislab/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1095
+			}
+		}
+	}
+}
+{
+	"package" : "luthier/luthier",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1064
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/restclient",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 1053
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-queue-worker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 738
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-ss-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 697
+			}
+		}
+	}
+}
+{
+	"package" : "tan5en5/codeigniter-debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 675
+			}
+		}
+	}
+}
+{
+	"package" : "nails/common",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 633
+			}
+		}
+	}
+}
+{
+	"package" : "codeigniter4/translations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 556
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 543
+			}
+		}
+	}
+}
+{
+	"package" : "frozennode/xssinput",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 543
+			}
+		}
+	}
+}
+{
+	"package" : "romainrg/codeigniter-php-amqplib",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 516
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-cdn",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 493
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-admin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 460
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 446
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-cdn-local",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 446
+			}
+		}
+	}
+}
+{
+	"package" : "mult1mate/cron-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 446
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-composer-installer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 445
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-api",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 444
+			}
+		}
+	}
+}
+{
+	"package" : "romainrg/codeigniter-rabbitmq-library",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 443
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-email",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 429
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-asset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 425
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-cms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 423
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-elasticsearch",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 418
+			}
+		}
+	}
+}
+{
+	"package" : "nails/nails",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 399
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-pdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 396
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-redirect",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 391
+			}
+		}
+	}
+}
+{
+	"package" : "myth/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 387
+			}
+		}
+	}
+}
+{
+	"package" : "nails/command-line-tool",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 380
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-invoice-stripe",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 380
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-error-handler-default",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 377
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-invoice",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 377
+			}
+		}
+	}
+}
+{
+	"package" : "compwright/codeigniter-installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 377
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-cron",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 367
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-currency",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 351
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-model",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 345
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 330
+			}
+		}
+	}
+}
+{
+	"package" : "macellan/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 322
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-cdn-awslocal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 318
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-subscription",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 286
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-rest",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 274
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-phpunit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 273
+			}
+		}
+	}
+}
+{
+	"package" : "phpmv/php-mv-ui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 265
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/pagination",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 249
+			}
+		}
+	}
+}
+{
+	"package" : "lonnieezell/codeigniter-forensics",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 236
+			}
+		}
+	}
+}
+{
+	"package" : "gccloud/db-driver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 230
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/bower",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 225
+			}
+		}
+	}
+}
+{
+	"package" : "rossmann-it/yii2-cron",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 224
+			}
+		}
+	}
+}
+{
+	"package" : "seunmatt/codeigniter-log-viewer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 221
+			}
+		}
+	}
+}
+{
+	"package" : "genealabs/phpgmaps",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 220
+			}
+		}
+	}
+}
+{
+	"package" : "phplucidframe/bare-migration",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 212
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-psr4-autoload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 202
+			}
+		}
+	}
+}
+{
+	"package" : "okipa/php-data-sanitizer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 188
+			}
+		}
+	}
+}
+{
+	"package" : "gloudemans/calendar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 177
+			}
+		}
+	}
+}
+{
+	"package" : "koolreport/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 174
+			}
+		}
+	}
+}
+{
+	"package" : "jamierumbelow/pigeon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 166
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 152
+			}
+		}
+	}
+}
+{
+	"package" : "yidas/codeigniter-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 140
+			}
+		}
+	}
+}
+{
+	"package" : "travis/composer-installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 129
+			}
+		}
+	}
+}
+{
+	"package" : "takuya-motoshima/codeigniter-extension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 126
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-captcha",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 117
+			}
+		}
+	}
+}
+{
+	"package" : "celc/ciunit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 109
+			}
+		}
+	}
+}
+{
+	"package" : "denis303/codeigniter4-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 108
+			}
+		}
+	}
+}
+{
+	"package" : "denis303/codeigniter4-form",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 102
+			}
+		}
+	}
+}
+{
+	"package" : "kenjis/codeigniter-deployer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 101
+			}
+		}
+	}
+}
+{
+	"package" : "aviat/query",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 101
+			}
+		}
+	}
+}
+{
+	"package" : "denis303/codeigniter4-model-helper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 97
+			}
+		}
+	}
+}
+{
+	"package" : "denis303/codeigniter4-nested-views",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 96
+			}
+		}
+	}
+}
+{
+	"package" : "denis303/codeigniter4-migration",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 93
+			}
+		}
+	}
+}
+{
+	"package" : "romainrg/ratchet_client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 92
+			}
+		}
+	}
+}
+{
+	"package" : "denis303/codeigniter4-user",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 91
+			}
+		}
+	}
+}
+{
+	"package" : "4spacesdk/ci4debugtool",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 85
+			}
+		}
+	}
+}
+{
+	"package" : "scissorhands/ci-utilities",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 82
+			}
+		}
+	}
+}
+{
+	"package" : "srtfisher/codeigniter-features",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 81
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/restserver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 80
+			}
+		}
+	}
+}
+{
+	"package" : "4spacesdk/ci4ormextension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 79
+			}
+		}
+	}
+}
+{
+	"package" : "agungsugiarto/boilerplate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 79
+			}
+		}
+	}
+}
+{
+	"package" : "luka-zitnik/code-igniter-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 73
+			}
+		}
+	}
+}
+{
+	"package" : "4spacesdk/ci4restextension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 71
+			}
+		}
+	}
+}
+{
+	"package" : "rogeriopradoj/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 57
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-form-builder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 55
+			}
+		}
+	}
+}
+{
+	"package" : "maltyxx/origami",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 55
+			}
+		}
+	}
+}
+{
+	"package" : "takielias/codeigniter-websocket",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 51
+			}
+		}
+	}
+}
+{
+	"package" : "romainrg/rabbitmq_client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 51
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-geo-ip-ipstack",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 48
+			}
+		}
+	}
+}
+{
+	"package" : "nails/driver-invoice-worldpay",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 47
+			}
+		}
+	}
+}
+{
+	"package" : "gccloud/parser",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 46
+			}
+		}
+	}
+}
+{
+	"package" : "nails/module-survey",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 43
+			}
+		}
+	}
+}
+{
+	"package" : "bcit-ci/codeigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"monthly" : 43
+			}
+		}
+	}
+}

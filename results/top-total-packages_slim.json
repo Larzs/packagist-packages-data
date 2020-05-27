@@ -1,0 +1,1000 @@
+{
+	"package" : "php-http/message",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21730601
+			}
+		}
+	}
+}
+{
+	"package" : "slim/slim",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11764538
+			}
+		}
+	}
+}
+{
+	"package" : "slim/php-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1944692
+			}
+		}
+	}
+}
+{
+	"package" : "slim/twig-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1484363
+			}
+		}
+	}
+}
+{
+	"package" : "slim/views",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 899759
+			}
+		}
+	}
+}
+{
+	"package" : "tuupola/slim-jwt-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 685512
+			}
+		}
+	}
+}
+{
+	"package" : "slim/csrf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 478666
+			}
+		}
+	}
+}
+{
+	"package" : "tuupola/slim-basic-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 474781
+			}
+		}
+	}
+}
+{
+	"package" : "php-di/slim-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 362303
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/utils",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 361181
+			}
+		}
+	}
+}
+{
+	"package" : "tuupola/cors-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 343122
+			}
+		}
+	}
+}
+{
+	"package" : "zeuxisoo/slim-whoops",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 330352
+			}
+		}
+	}
+}
+{
+	"package" : "slim/extras",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 325182
+			}
+		}
+	}
+}
+{
+	"package" : "slim/http-cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 321659
+			}
+		}
+	}
+}
+{
+	"package" : "imbo/behat-api-extension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 298185
+			}
+		}
+	}
+}
+{
+	"package" : "slim/slim-skeleton",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 257627
+			}
+		}
+	}
+}
+{
+	"package" : "flynsarmy/slim-monolog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 247706
+			}
+		}
+	}
+}
+{
+	"package" : "palanik/corsslim",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 219290
+			}
+		}
+	}
+}
+{
+	"package" : "there4/slim-test-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 198927
+			}
+		}
+	}
+}
+{
+	"package" : "kamisama/cake-resque",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 191156
+			}
+		}
+	}
+}
+{
+	"package" : "bryanjhv/slim-session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 166727
+			}
+		}
+	}
+}
+{
+	"package" : "chadicus/slim-oauth2-http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 106372
+			}
+		}
+	}
+}
+{
+	"package" : "chadicus/slim-oauth2-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 100373
+			}
+		}
+	}
+}
+{
+	"package" : "perftools/xhgui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 98818
+			}
+		}
+	}
+}
+{
+	"package" : "chadicus/slim-oauth2-routes",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 93775
+			}
+		}
+	}
+}
+{
+	"package" : "chatwork/slim-json-request",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 85500
+			}
+		}
+	}
+}
+{
+	"package" : "davidepastore/slim-validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 84704
+			}
+		}
+	}
+}
+{
+	"package" : "chadicus/slim-oauth2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 80357
+			}
+		}
+	}
+}
+{
+	"package" : "honeybadger-io/honeybadger-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 80310
+			}
+		}
+	}
+}
+{
+	"package" : "bref/bref",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 74201
+			}
+		}
+	}
+}
+{
+	"package" : "slim/middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 62725
+			}
+		}
+	}
+}
+{
+	"package" : "pact-foundation/pact-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 61017
+			}
+		}
+	}
+}
+{
+	"package" : "slim/logger",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 60037
+			}
+		}
+	}
+}
+{
+	"package" : "bnf/slim3-psr15",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 58495
+			}
+		}
+	}
+}
+{
+	"package" : "herloct/codeception-slim-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53847
+			}
+		}
+	}
+}
+{
+	"package" : "oat-sa/tao-core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49235
+			}
+		}
+	}
+}
+{
+	"package" : "akrabat/rka-slim-session-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 47917
+			}
+		}
+	}
+}
+{
+	"package" : "mnapoli/bref",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46716
+			}
+		}
+	}
+}
+{
+	"package" : "kanellov/slim-twig-flash",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 45907
+			}
+		}
+	}
+}
+{
+	"package" : "mathmarques/smarty-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 45869
+			}
+		}
+	}
+}
+{
+	"package" : "librenms/librenms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 45563
+			}
+		}
+	}
+}
+{
+	"package" : "jeremykendall/query-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 43849
+			}
+		}
+	}
+}
+{
+	"package" : "pavlakis/slim-cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39954
+			}
+		}
+	}
+}
+{
+	"package" : "awurth/slim-validation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39154
+			}
+		}
+	}
+}
+{
+	"package" : "pagely/http-mock",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 37109
+			}
+		}
+	}
+}
+{
+	"package" : "runcmf/runtracy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 36886
+			}
+		}
+	}
+}
+{
+	"package" : "schnittstabil/psr7-middleware-stack",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35990
+			}
+		}
+	}
+}
+{
+	"package" : "php-middleware/php-debug-bar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35419
+			}
+		}
+	}
+}
+{
+	"package" : "schnittstabil/psr7-csrf-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35232
+			}
+		}
+	}
+}
+{
+	"package" : "pongtan/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 33407
+			}
+		}
+	}
+}
+{
+	"package" : "novosga/novosga",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30754
+			}
+		}
+	}
+}
+{
+	"package" : "dyorg/slim-token-authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30095
+			}
+		}
+	}
+}
+{
+	"package" : "magicalex/seedbox-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 27505
+			}
+		}
+	}
+}
+{
+	"package" : "userfrosting/assets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 27233
+			}
+		}
+	}
+}
+{
+	"package" : "rhubarbphp/module-restapi",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26954
+			}
+		}
+	}
+}
+{
+	"package" : "wyrihaximus/json-psr7",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26822
+			}
+		}
+	}
+}
+{
+	"package" : "azuracast/azuracast",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26590
+			}
+		}
+	}
+}
+{
+	"package" : "azuracast/azuracore",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25761
+			}
+		}
+	}
+}
+{
+	"package" : "flexsounds/slim-symfony-di-container",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 24976
+			}
+		}
+	}
+}
+{
+	"package" : "activecollab/cookies",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 24332
+			}
+		}
+	}
+}
+{
+	"package" : "slimcontroller/slimcontroller",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 24186
+			}
+		}
+	}
+}
+{
+	"package" : "itsgoingd/slim-facades",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23885
+			}
+		}
+	}
+}
+{
+	"package" : "activecollab/authentication",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23858
+			}
+		}
+	}
+}
+{
+	"package" : "tcg/event-emitter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23547
+			}
+		}
+	}
+}
+{
+	"package" : "akrabat/rka-slim-controller",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22635
+			}
+		}
+	}
+}
+{
+	"package" : "uma/psr7-hmac",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22314
+			}
+		}
+	}
+}
+{
+	"package" : "hkarlstrom/openapi-validation-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20987
+			}
+		}
+	}
+}
+{
+	"package" : "locomotivemtl/charcoal-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20197
+			}
+		}
+	}
+}
+{
+	"package" : "shucream0117/slim-boost-php5",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 19725
+			}
+		}
+	}
+}
+{
+	"package" : "ql/mcp-panthor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 19294
+			}
+		}
+	}
+}
+{
+	"package" : "aneek/slim-event-dispatcher",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 18751
+			}
+		}
+	}
+}
+{
+	"package" : "locomotivemtl/charcoal-app",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 17003
+			}
+		}
+	}
+}
+{
+	"package" : "juliangut/slim-controller",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16355
+			}
+		}
+	}
+}
+{
+	"package" : "jeremykendall/slim-auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16062
+			}
+		}
+	}
+}
+{
+	"package" : "phramework/jsonapi-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15876
+			}
+		}
+	}
+}
+{
+	"package" : "itsgoingd/slim-services",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15217
+			}
+		}
+	}
+}
+{
+	"package" : "chubbyphp/chubbyphp-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15074
+			}
+		}
+	}
+}
+{
+	"package" : "serato/sws-bootstrap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14899
+			}
+		}
+	}
+}
+{
+	"package" : "pdeans/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13538
+			}
+		}
+	}
+}
+{
+	"package" : "juliangut/slim-php-di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13375
+			}
+		}
+	}
+}
+{
+	"package" : "php-http/psr7-integration-tests",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 13076
+			}
+		}
+	}
+}
+{
+	"package" : "christianklisch/slim-minify",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12628
+			}
+		}
+	}
+}
+{
+	"package" : "petebrowne/slim-layout-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11976
+			}
+		}
+	}
+}
+{
+	"package" : "oops/slim-nette-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11901
+			}
+		}
+	}
+}
+{
+	"package" : "mattersight/phppact",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11698
+			}
+		}
+	}
+}
+{
+	"package" : "tuupola/slim-image-resize",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11526
+			}
+		}
+	}
+}
+{
+	"package" : "rubellum/slim-blade-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11517
+			}
+		}
+	}
+}
+{
+	"package" : "eko3alpha/slim-cors-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10955
+			}
+		}
+	}
+}
+{
+	"package" : "boronczyk/localization-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10676
+			}
+		}
+	}
+}
+{
+	"package" : "locomotivemtl/charcoal-user",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10669
+			}
+		}
+	}
+}
+{
+	"package" : "code-tool/curl-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10447
+			}
+		}
+	}
+}
+{
+	"package" : "oslab/slim-monolog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10148
+			}
+		}
+	}
+}
+{
+	"package" : "projek-xyz/slim-plates",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9906
+			}
+		}
+	}
+}
+{
+	"package" : "pavlakis/php-server-interface-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9836
+			}
+		}
+	}
+}
+{
+	"package" : "adbario/slim-secure-session-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9416
+			}
+		}
+	}
+}
+{
+	"package" : "code-tool/curl-client-symfony-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9151
+			}
+		}
+	}
+}
+{
+	"package" : "martynbiz/slim3-controller",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9148
+			}
+		}
+	}
+}
+{
+	"package" : "yusukezzz/slim-debugbar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9000
+			}
+		}
+	}
+}
+{
+	"package" : "glpi-project/runtracy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8613
+			}
+		}
+	}
+}
+{
+	"package" : "brandembassy/slim-nette-extension",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8486
+			}
+		}
+	}
+}

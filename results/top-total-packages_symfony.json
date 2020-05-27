@@ -1,0 +1,1000 @@
+{
+	"package" : "symfony/polyfill-mbstring",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 210645235
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/console",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 199367074
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/event-dispatcher",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 190433052
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/finder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 176261290
+			}
+		}
+	}
+}
+{
+	"package" : "phpunit/phpunit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 172891041
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/debug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 170878891
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/process",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 169254030
+			}
+		}
+	}
+}
+{
+	"package" : "guzzlehttp/guzzle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 168514253
+			}
+		}
+	}
+}
+{
+	"package" : "sebastian/diff",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 160297550
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/yaml",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 155894592
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/translation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 148167017
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/http-foundation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 145754691
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/http-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 134534944
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/css-selector",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 131657234
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/routing",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 130303352
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/var-dumper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 121989452
+			}
+		}
+	}
+}
+{
+	"package" : "nesbot/carbon",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 112631927
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/dbal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 110938140
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-ctype",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 110601284
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/filesystem",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 110106015
+			}
+		}
+	}
+}
+{
+	"package" : "ramsey/uuid",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 94999795
+			}
+		}
+	}
+}
+{
+	"package" : "psy/psysh",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 88664421
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 88116852
+			}
+		}
+	}
+}
+{
+	"package" : "aws/aws-sdk-php",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 83986252
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/dom-crawler",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 83282072
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-util",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 76589720
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-php56",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 76402593
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 75331611
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-php70",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 72491555
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-php72",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 70713636
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66308192
+			}
+		}
+	}
+}
+{
+	"package" : "tijsverkoyen/css-to-inline-styles",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 63734329
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/dependency-injection",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 61806619
+			}
+		}
+	}
+}
+{
+	"package" : "composer/ca-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 56599976
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/monolog-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 55855643
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 54186700
+			}
+		}
+	}
+}
+{
+	"package" : "sensio/framework-extra-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53872417
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/browser-kit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 53415050
+			}
+		}
+	}
+}
+{
+	"package" : "laravel/tinker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 50155152
+			}
+		}
+	}
+}
+{
+	"package" : "filp/whoops",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49565923
+			}
+		}
+	}
+}
+{
+	"package" : "guzzle/guzzle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 49170818
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/symfony",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 48843148
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/swiftmailer-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46928734
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-intl-icu",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46582130
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/options-resolver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46544719
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-cache-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46212331
+			}
+		}
+	}
+}
+{
+	"package" : "sensio/distribution-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 44142506
+			}
+		}
+	}
+}
+{
+	"package" : "jms/metadata",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 42547910
+			}
+		}
+	}
+}
+{
+	"package" : "sensiolabs/security-checker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 41955637
+			}
+		}
+	}
+}
+{
+	"package" : "twig/extensions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 41062785
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-intl-idn",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39988781
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/stopwatch",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39197671
+			}
+		}
+	}
+}
+{
+	"package" : "ocramius/proxy-manager",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 39153798
+			}
+		}
+	}
+}
+{
+	"package" : "behat/gherkin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38815689
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/class-loader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38177530
+			}
+		}
+	}
+}
+{
+	"package" : "incenteev/composer-parameter-handler",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38104674
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-iconv",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38078310
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-apcu",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 38036129
+			}
+		}
+	}
+}
+{
+	"package" : "jms/serializer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 37972959
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/migrations",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 36603278
+			}
+		}
+	}
+}
+{
+	"package" : "sensio/generator-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35885193
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/validator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 34496283
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-php73",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 34475939
+			}
+		}
+	}
+}
+{
+	"package" : "kriswallsmith/assetic",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 33960567
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/service-contracts",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 33731991
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/phpunit-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 31703927
+			}
+		}
+	}
+}
+{
+	"package" : "classpreloader/classpreloader",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 31687354
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/serializer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30882238
+			}
+		}
+	}
+}
+{
+	"package" : "elasticsearch/elasticsearch",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30813732
+			}
+		}
+	}
+}
+{
+	"package" : "google/apiclient",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30570275
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-migrations-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30453913
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/property-access",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 29703343
+			}
+		}
+	}
+}
+{
+	"package" : "jms/serializer-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 28890754
+			}
+		}
+	}
+}
+{
+	"package" : "gedmo/doctrine-extensions",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 28790184
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/mime",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 28510912
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/event-dispatcher-contracts",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 28409974
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/translation-contracts",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 27636547
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/assetic-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 27094198
+			}
+		}
+	}
+}
+{
+	"package" : "pdepend/pdepend",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26971668
+			}
+		}
+	}
+}
+{
+	"package" : "phpmd/phpmd",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26116027
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/cache",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26074637
+			}
+		}
+	}
+}
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26065561
+			}
+		}
+	}
+}
+{
+	"package" : "facebook/webdriver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25986672
+			}
+		}
+	}
+}
+{
+	"package" : "behat/mink",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25802318
+			}
+		}
+	}
+}
+{
+	"package" : "doctrine/doctrine-fixtures-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25789358
+			}
+		}
+	}
+}
+{
+	"package" : "composer/composer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25403409
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/contracts",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 24768324
+			}
+		}
+	}
+}
+{
+	"package" : "behat/behat",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 24503410
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/inflector",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23901086
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/psr-http-message-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23803003
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofsymfony/rest-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23354301
+			}
+		}
+	}
+}
+{
+	"package" : "friendsofphp/php-cs-fixer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22849845
+			}
+		}
+	}
+}
+{
+	"package" : "sentry/sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22640600
+			}
+		}
+	}
+}
+{
+	"package" : "behat/mink-browserkit-driver",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22398674
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-php55",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 22255900
+			}
+		}
+	}
+}
+{
+	"package" : "fabpot/goutte",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21981607
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/polyfill-php54",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21936681
+			}
+		}
+	}
+}
+{
+	"package" : "nunomaduro/collision",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21386747
+			}
+		}
+	}
+}
+{
+	"package" : "sebastian/finder-facade",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20628131
+			}
+		}
+	}
+}
+{
+	"package" : "symfony/twig-bridge",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20600551
+			}
+		}
+	}
+}

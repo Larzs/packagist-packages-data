@@ -1,0 +1,1000 @@
+{
+	"package" : "composer/installers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26065561
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9233548
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-composer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8659928
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-bootstrap",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7730049
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-debug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7442618
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-swiftmailer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7401714
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-gii",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6379166
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-faker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5559012
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-krajee-base",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3500707
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-select2",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2762066
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-codeception",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2695442
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-jui",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2658378
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-redis",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2494968
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-httpclient",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2299740
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2264800
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-datepicker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2060617
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-activeform",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1965880
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-fileinput",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1946462
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-grid",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1901636
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-datetimepicker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1895945
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-authclient",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1840623
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-depdrop",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1536118
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-queue",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1513278
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-timepicker",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1477163
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-dialog",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1458062
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-imagine",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1456902
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-colorinput",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1448407
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-typeahead",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1426170
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-mpdf",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1391080
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-switchinput",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1329683
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-rating",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1311213
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-alert",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1292923
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-growl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1284516
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-touchspin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1267891
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-sidenav",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1259491
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widgets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1256669
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-spinner",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1247861
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-rangeinput",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1240664
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-app-basic",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1203542
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-widget-affix",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1191181
+			}
+		}
+	}
+}
+{
+	"package" : "creocoder/yii2-nested-sets",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1149075
+			}
+		}
+	}
+}
+{
+	"package" : "rmrevin/yii2-fontawesome",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1136641
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-date-range",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 972269
+			}
+		}
+	}
+}
+{
+	"package" : "payum/payum",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 939908
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-sortable",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 849859
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-helpers",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 832272
+			}
+		}
+	}
+}
+{
+	"package" : "payum/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 824715
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-export",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 807225
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-popover-x",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 760885
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-app-advanced",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 732384
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-editable",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 730472
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/cms",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 725860
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/server-check",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 720620
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-dynagrid",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 712979
+			}
+		}
+	}
+}
+{
+	"package" : "yii2tech/ar-softdelete",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 673129
+			}
+		}
+	}
+}
+{
+	"package" : "dmstr/yii2-adminlte-asset",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 661363
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-twig",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 640318
+			}
+		}
+	}
+}
+{
+	"package" : "cebe/yii2-gravatar",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 638827
+			}
+		}
+	}
+}
+{
+	"package" : "mdmsoft/yii2-admin",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 594660
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-field-range",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 568823
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-mongodb",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 541032
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-ckeditor-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 537889
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-elasticsearch",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 523840
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-gallery-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 513686
+			}
+		}
+	}
+}
+{
+	"package" : "himiklab/yii2-recaptcha-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 506989
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-file-upload-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 478590
+			}
+		}
+	}
+}
+{
+	"package" : "codeitnowin/barcode",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 477286
+			}
+		}
+	}
+}
+{
+	"package" : "linslin/yii2-curl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 461674
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/redactor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 437594
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-datecontrol",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 419211
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-date-picker-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 413701
+			}
+		}
+	}
+}
+{
+	"package" : "dektrium/yii2-user",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 378014
+			}
+		}
+	}
+}
+{
+	"package" : "miloschuman/yii2-highcharts-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 377167
+			}
+		}
+	}
+}
+{
+	"package" : "creocoder/yii2-flysystem",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 374843
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-tabs-x",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 374807
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-builder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 371487
+			}
+		}
+	}
+}
+{
+	"package" : "moonlandsoft/yii2-phpexcel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 342404
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-detail-view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 337500
+			}
+		}
+	}
+}
+{
+	"package" : "codemix/yii2-localeurls",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 330903
+			}
+		}
+	}
+}
+{
+	"package" : "vova07/yii2-imperavi-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 330720
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-tinymce-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 317332
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-apidoc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 314823
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-sphinx",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 310249
+			}
+		}
+	}
+}
+{
+	"package" : "unclead/yii2-multiple-input",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 305145
+			}
+		}
+	}
+}
+{
+	"package" : "notamedia/yii2-sentry",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 289578
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-chartjs-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 272533
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-checkbox-x",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 269570
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-password",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 267060
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-icons",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 263981
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-dropdown-x",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 262655
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-slider",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 260963
+			}
+		}
+	}
+}
+{
+	"package" : "borales/yii2-phone-input",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 257065
+			}
+		}
+	}
+}
+{
+	"package" : "wbraganca/yii2-dynamicform",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 255861
+			}
+		}
+	}
+}
+{
+	"package" : "craftcms/aws-s3",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 253369
+			}
+		}
+	}
+}
+{
+	"package" : "asofter/yii2-imperavi-redactor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 243193
+			}
+		}
+	}
+}
+{
+	"package" : "alexandernst/yii2-device-detect",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 241659
+			}
+		}
+	}
+}
+{
+	"package" : "2amigos/yii2-selectize-widget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 241101
+			}
+		}
+	}
+}
+{
+	"package" : "mihaildev/yii2-elfinder",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 236467
+			}
+		}
+	}
+}
+{
+	"package" : "kartik-v/yii2-money",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 232854
+			}
+		}
+	}
+}
+{
+	"package" : "yiisoft/yii2-coding-standards",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 230903
+			}
+		}
+	}
+}

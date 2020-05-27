@@ -1,0 +1,1000 @@
+{
+	"package" : "cakephp/cakephp",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5398004
+			}
+		}
+	}
+}
+{
+	"package" : "aura/intl",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3764209
+			}
+		}
+	}
+}
+{
+	"package" : "aura/installer-default",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1598353
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-expressive",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 993254
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sqlquery",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 685458
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sql",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 600553
+			}
+		}
+	}
+}
+{
+	"package" : "aura/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 524192
+			}
+		}
+	}
+}
+{
+	"package" : "oscarotero/psr7-middlewares",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 466861
+			}
+		}
+	}
+}
+{
+	"package" : "aura/router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 410107
+			}
+		}
+	}
+}
+{
+	"package" : "aura/cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 386970
+			}
+		}
+	}
+}
+{
+	"package" : "aura/session",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 309972
+			}
+		}
+	}
+}
+{
+	"package" : "aura/filter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 260162
+			}
+		}
+	}
+}
+{
+	"package" : "acclimate/container",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 183080
+			}
+		}
+	}
+}
+{
+	"package" : "ray/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 133893
+			}
+		}
+	}
+}
+{
+	"package" : "aura/payload-interface",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 133734
+			}
+		}
+	}
+}
+{
+	"package" : "aura/accept",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 132458
+			}
+		}
+	}
+}
+{
+	"package" : "aura/web",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 123988
+			}
+		}
+	}
+}
+{
+	"package" : "aura/payload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 119346
+			}
+		}
+	}
+}
+{
+	"package" : "aura/auth",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 107644
+			}
+		}
+	}
+}
+{
+	"package" : "aura/html",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 104663
+			}
+		}
+	}
+}
+{
+	"package" : "aura/view",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 70923
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sqlschema",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 69594
+			}
+		}
+	}
+}
+{
+	"package" : "aura/autoload",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 68209
+			}
+		}
+	}
+}
+{
+	"package" : "aura/marshal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 67813
+			}
+		}
+	}
+}
+{
+	"package" : "bear/resource",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 66800
+			}
+		}
+	}
+}
+{
+	"package" : "bear/sunday",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 61208
+			}
+		}
+	}
+}
+{
+	"package" : "aura/input",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 57943
+			}
+		}
+	}
+}
+{
+	"package" : "bear/package",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 54951
+			}
+		}
+	}
+}
+{
+	"package" : "dbdiff/dbdiff",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 52019
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-expressive-aurarouter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 51920
+			}
+		}
+	}
+}
+{
+	"package" : "aura/dispatcher",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 51865
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-expressive-skeleton",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 50397
+			}
+		}
+	}
+}
+{
+	"package" : "aura/project-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 48999
+			}
+		}
+	}
+}
+{
+	"package" : "cakephp/i18n",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 46064
+			}
+		}
+	}
+}
+{
+	"package" : "atlas/orm",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 44010
+			}
+		}
+	}
+}
+{
+	"package" : "atlas/cli",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 43276
+			}
+		}
+	}
+}
+{
+	"package" : "aura/signal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 41103
+			}
+		}
+	}
+}
+{
+	"package" : "aura/cli-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 37536
+			}
+		}
+	}
+}
+{
+	"package" : "bear/aura-router-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 35203
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 34337
+			}
+		}
+	}
+}
+{
+	"package" : "ray/aura-sql-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 32829
+			}
+		}
+	}
+}
+{
+	"package" : "zendframework/zend-auradi-config",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 30882
+			}
+		}
+	}
+}
+{
+	"package" : "aura/http",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 27930
+			}
+		}
+	}
+}
+{
+	"package" : "bookdown/bookdown",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 26140
+			}
+		}
+	}
+}
+{
+	"package" : "clean/repository",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 25987
+			}
+		}
+	}
+}
+{
+	"package" : "api-clients/resource-generator",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23467
+			}
+		}
+	}
+}
+{
+	"package" : "aura/web-kernel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 23202
+			}
+		}
+	}
+}
+{
+	"package" : "njasm/container",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 21511
+			}
+		}
+	}
+}
+{
+	"package" : "ray/aura-session-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 20626
+			}
+		}
+	}
+}
+{
+	"package" : "ray/web-form-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 19311
+			}
+		}
+	}
+}
+{
+	"package" : "jzonta/faker-restaurant",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16771
+			}
+		}
+	}
+}
+{
+	"package" : "g4/router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 16561
+			}
+		}
+	}
+}
+{
+	"package" : "aura-is-here/laravel-multi-tenant",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15779
+			}
+		}
+	}
+}
+{
+	"package" : "emonkak/di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 15024
+			}
+		}
+	}
+}
+{
+	"package" : "fool/executor",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 14294
+			}
+		}
+	}
+}
+{
+	"package" : "aura/uri",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 12321
+			}
+		}
+	}
+}
+{
+	"package" : "dxw/iguana",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 11183
+			}
+		}
+	}
+}
+{
+	"package" : "damess/expressive-session-middleware",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 10043
+			}
+		}
+	}
+}
+{
+	"package" : "yourls/yourls",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 9199
+			}
+		}
+	}
+}
+{
+	"package" : "aura/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8817
+			}
+		}
+	}
+}
+{
+	"package" : "aura/installer-system",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 8119
+			}
+		}
+	}
+}
+{
+	"package" : "middlewares/aura-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7242
+			}
+		}
+	}
+}
+{
+	"package" : "samsonasik/error-hero-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 7099
+			}
+		}
+	}
+}
+{
+	"package" : "aurawindsurfing/google-translate",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6835
+			}
+		}
+	}
+}
+{
+	"package" : "shameerc/slim3-aura-di",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 6061
+			}
+		}
+	}
+}
+{
+	"package" : "matthiasnoback/sphinx-documentation-collector",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5983
+			}
+		}
+	}
+}
+{
+	"package" : "wp4laravel/wp4laravel",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5384
+			}
+		}
+	}
+}
+{
+	"package" : "graze/dal",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5315
+			}
+		}
+	}
+}
+{
+	"package" : "aura/sqlmapper-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 5005
+			}
+		}
+	}
+}
+{
+	"package" : "ray/aura-web-module",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4986
+			}
+		}
+	}
+}
+{
+	"package" : "los/los-rate-limit",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4579
+			}
+		}
+	}
+}
+{
+	"package" : "mattcg/cjsdelivery",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4515
+			}
+		}
+	}
+}
+{
+	"package" : "chubbyphp/chubbyphp-framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4439
+			}
+		}
+	}
+}
+{
+	"package" : "radar/adr",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4233
+			}
+		}
+	}
+}
+{
+	"package" : "foa/filter-input-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4205
+			}
+		}
+	}
+}
+{
+	"package" : "mbrevda/aurasql-queryproxy",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4096
+			}
+		}
+	}
+}
+{
+	"package" : "werx/core",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 4088
+			}
+		}
+	}
+}
+{
+	"package" : "aol/atc",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3364
+			}
+		}
+	}
+}
+{
+	"package" : "aura-is-here/fire-and-forget",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3194
+			}
+		}
+	}
+}
+{
+	"package" : "foa/html-view-bundle",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 3023
+			}
+		}
+	}
+}
+{
+	"package" : "openrestaurant/openrestaurant-project",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2901
+			}
+		}
+	}
+}
+{
+	"package" : "hum2/twig-form",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2430
+			}
+		}
+	}
+}
+{
+	"package" : "mindy/event",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2403
+			}
+		}
+	}
+}
+{
+	"package" : "ppi/framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2386
+			}
+		}
+	}
+}
+{
+	"package" : "nikolaposa/phoundation",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2289
+			}
+		}
+	}
+}
+{
+	"package" : "aura/includer",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2263
+			}
+		}
+	}
+}
+{
+	"package" : "atelierdisko/cute",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2261
+			}
+		}
+	}
+}
+{
+	"package" : "tastyigniter/tastyigniter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 2052
+			}
+		}
+	}
+}
+{
+	"package" : "aviat/ion",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1964
+			}
+		}
+	}
+}
+{
+	"package" : "creios/creiwork-framework",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1918
+			}
+		}
+	}
+}
+{
+	"package" : "shashank19gaurav/instapaper-api-client",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1833
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-aurarouter",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1771
+			}
+		}
+	}
+}
+{
+	"package" : "weavephp/container-aura",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1579
+			}
+		}
+	}
+}
+{
+	"package" : "aura/web-project",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1512
+			}
+		}
+	}
+}
+{
+	"package" : "rossriley/stack-aura-router",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1471
+			}
+		}
+	}
+}
+{
+	"package" : "mezzio/mezzio-skeleton",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1451
+			}
+		}
+	}
+}
+{
+	"package" : "aaronwebb/aura-sql-debug",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1423
+			}
+		}
+	}
+}
+{
+	"package" : "oscarotero/folk",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1366
+			}
+		}
+	}
+}
+{
+	"package" : "aura/framework-project",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1344
+			}
+		}
+	}
+}
+{
+	"package" : "asticode/php-data-mapper",
+	"payload" : {
+		"package" : {
+			"downloads" : {
+				"total" : 1339
+			}
+		}
+	}
+}
